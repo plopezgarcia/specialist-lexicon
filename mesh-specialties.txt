@@ -1,0 +1,119 @@
+mesh:D000073316	Addiction Medicine
+mesh:D000295	Adolescent Medicine
+mesh:D000296	Adolescent Psychiatry
+mesh:D000337	Aerospace Medicine
+mesh:D000486	Allergy and Immunology
+mesh:D033441	Andrology
+mesh:D000776	Anesthesiology
+mesh:D052938	Bariatric Medicine
+mesh:D001524	Behavioral Medicine
+mesh:D001689	Biological Psychiatry
+mesh:D054849	Cardiac Electrophysiology
+mesh:D000072038	Cardiac Rehabilitation
+mesh:D002309	Cardiology
+mesh:D002665	Child Psychiatry
+mesh:D015510	Clinical Medicine
+mesh:D003107	Colorectal Surgery
+mesh:D003154	Community Medicine
+mesh:D003158	Community Psychiatry
+mesh:D012048	Correction of Hearing Impairment
+mesh:D003880	Dermatology
+mesh:D054597	Disaster Medicine
+mesh:D004635	Emergency Medicine
+mesh:D004704	Endocrinology
+mesh:D019550	Environmental Medicine
+mesh:D004813	Epidemiology
+mesh:D055416	Evidence-Based Emergency Medicine
+mesh:D019317	Evidence-Based Medicine
+mesh:D005194	Family Practice
+mesh:D053803	Forensic Genetics
+mesh:D005554	Forensic Medicine
+mesh:D049429	Forensic Pathology
+mesh:D005555	Forensic Psychiatry
+mesh:D005762	Gastroenterology
+mesh:D058006	General Practice
+mesh:D013502	General Surgery
+mesh:D005826	Genetics, Medical
+mesh:D062306	Geography, Medical
+mesh:D005852	Geriatric Psychiatry
+mesh:D005853	Geriatrics
+mesh:D014943	Global Health
+mesh:D006176	Gynecology
+mesh:D006405	Hematology
+mesh:D064416	Hospital Medicine
+mesh:D007120	Immunochemistry
+mesh:D055552	Infectious Disease Medicine
+mesh:D055048	Integrative Medicine
+mesh:D007388	Internal Medicine
+mesh:D008495	Medical Oncology
+mesh:D008887	Military Medicine
+mesh:D008890	Military Psychiatry
+mesh:D017720	Molecular Epidemiology
+mesh:D062346	Molecular Medicine
+mesh:D009326	Naval Medicine
+mesh:D009359	Neonatology
+mesh:D009398	Nephrology
+mesh:D000066530	Neurological Rehabilitation
+mesh:D009462	Neurology
+mesh:D000069338	Neuropathology
+mesh:D058027	Neuropsychiatry
+mesh:D009493	Neurosurgery
+mesh:D063165	Neurotology
+mesh:D009683	Nuclear Medicine
+mesh:D009774	Obstetrics
+mesh:D009787	Occupational Medicine
+mesh:D009885	Ophthalmology
+mesh:D057909	Orthognathic Surgery
+mesh:D009985	Orthopedics
+mesh:D010021	Osteopathic Medicine
+mesh:D010036	Otolaryngology
+mesh:D065126	Palliative Medicine
+mesh:D010336	Pathology
+mesh:D010338	Pathology, Clinical
+mesh:D057089	Pathology, Molecular
+mesh:D010340	Pathology, Surgical
+mesh:D000070316	Pediatric Emergency Medicine
+mesh:D010372	Pediatrics
+mesh:D010500	Perinatology
+mesh:D017891	Pharmacoepidemiology
+mesh:D010810	Physical and Rehabilitation Medicine
+mesh:D057285	Precision Medicine
+mesh:D011315	Preventive Medicine
+mesh:D011316	Preventive Psychiatry
+mesh:D000067250	Psychiatric Rehabilitation
+mesh:D011570	Psychiatry
+mesh:D000073320	Psycho-Oncology
+mesh:D011634	Public Health
+mesh:D015272	Pulmonary Medicine
+mesh:D018787	Radiation Oncology
+mesh:D011871	Radiology
+mesh:D015642	Radiology, Interventional
+mesh:D044968	Regenerative Medicine
+mesh:D012046	Rehabilitation
+mesh:D018456	Reproductive Medicine
+mesh:D012219	Rheumatology
+mesh:D056508	Sleep Medicine Specialty
+mesh:D012936	Social Medicine
+mesh:D013043	Specialties, Surgical
+mesh:D013178	Sports Medicine
+mesh:D064132	Sports Nutritional Sciences
+mesh:D000071939	Stroke Rehabilitation
+mesh:D013366	Submarine Medicine
+mesh:D013518	Surgery, Plastic
+mesh:D000071077	Surgical Oncology
+mesh:D017216	Telemedicine
+mesh:D019113	Telepathology
+mesh:D019112	Teleradiology
+mesh:D000069350	Telerehabilitation
+mesh:D000068936	Theranostic Nanomedicine
+mesh:D013903	Thoracic Surgery
+mesh:D019371	Topography, Medical
+mesh:D064826	Transfusion Medicine
+mesh:D014194	Traumatology
+mesh:D057236	Travel Medicine
+mesh:D014330	Tropical Medicine
+mesh:D014572	Urology
+mesh:D000078782	Vaccinology
+mesh:D014686	Venereology
+mesh:D064796	Veterinary Sports Medicine
+mesh:D055813	Wilderness Medicine
