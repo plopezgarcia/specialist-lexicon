@@ -1,0 +1,130 @@
+descriptor,label,treeNum,medicineTreeNum
+http://id.nlm.nih.gov/mesh/D003880,Dermatology,http://id.nlm.nih.gov/mesh/H02.403.225,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D004813,Epidemiology,http://id.nlm.nih.gov/mesh/H02.403.720.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D011315,Preventive Medicine,http://id.nlm.nih.gov/mesh/H02.403.720.750,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D019317,Evidence-Based Medicine,http://id.nlm.nih.gov/mesh/H02.403.200.400,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000066530,Neurological Rehabilitation,http://id.nlm.nih.gov/mesh/H02.403.680.600.750,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000067250,Psychiatric Rehabilitation,http://id.nlm.nih.gov/mesh/H02.403.680.600.875,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000068936,Theranostic Nanomedicine,http://id.nlm.nih.gov/mesh/H02.403.845,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000069338,Neuropathology,http://id.nlm.nih.gov/mesh/H02.403.600.250,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000069338,Neuropathology,http://id.nlm.nih.gov/mesh/H02.403.650.375,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000069350,Telerehabilitation,http://id.nlm.nih.gov/mesh/H02.403.680.600.937,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000069350,Telerehabilitation,http://id.nlm.nih.gov/mesh/H02.403.840.850,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000070316,Pediatric Emergency Medicine,http://id.nlm.nih.gov/mesh/H02.403.250.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000070316,Pediatric Emergency Medicine,http://id.nlm.nih.gov/mesh/H02.403.670.450,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000071077,Surgical Oncology,http://id.nlm.nih.gov/mesh/H02.403.429.515.750,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000071077,Surgical Oncology,http://id.nlm.nih.gov/mesh/H02.403.810.796,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000295,Adolescent Medicine,http://id.nlm.nih.gov/mesh/H02.403.014,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D004635,Emergency Medicine,http://id.nlm.nih.gov/mesh/H02.403.250,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D008495,Medical Oncology,http://id.nlm.nih.gov/mesh/H02.403.429.515,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009462,Neurology,http://id.nlm.nih.gov/mesh/H02.403.600,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009683,Nuclear Medicine,http://id.nlm.nih.gov/mesh/H02.403.740.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010336,Pathology,http://id.nlm.nih.gov/mesh/H02.403.650,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010372,Pediatrics,http://id.nlm.nih.gov/mesh/H02.403.670,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D011634,Public Health,http://id.nlm.nih.gov/mesh/H02.403.720,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D012046,Rehabilitation,http://id.nlm.nih.gov/mesh/H02.403.680.600,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D013043,"Specialties, Surgical",http://id.nlm.nih.gov/mesh/H02.403.810,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D013178,Sports Medicine,http://id.nlm.nih.gov/mesh/H02.403.830,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D017216,Telemedicine,http://id.nlm.nih.gov/mesh/H02.403.840,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D019550,Environmental Medicine,http://id.nlm.nih.gov/mesh/H02.403.720.750.250,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D002665,Child Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.130,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D003107,Colorectal Surgery,http://id.nlm.nih.gov/mesh/H02.403.810.208,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D003154,Community Medicine,http://id.nlm.nih.gov/mesh/H02.403.220,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D003158,Community Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.150,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D005555,Forensic Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.208,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D012048,Correction of Hearing Impairment,http://id.nlm.nih.gov/mesh/H02.403.680.600.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D008887,Military Medicine,http://id.nlm.nih.gov/mesh/H02.403.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D008890,Military Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.508,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009326,Naval Medicine,http://id.nlm.nih.gov/mesh/H02.403.560,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009359,Neonatology,http://id.nlm.nih.gov/mesh/H02.403.670.400,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D013502,General Surgery,http://id.nlm.nih.gov/mesh/H02.403.810.300,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D013518,"Surgery, Plastic",http://id.nlm.nih.gov/mesh/H02.403.810.788,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D014194,Traumatology,http://id.nlm.nih.gov/mesh/H02.403.810.850,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D014572,Urology,http://id.nlm.nih.gov/mesh/H02.403.810.860,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D053803,Forensic Genetics,http://id.nlm.nih.gov/mesh/H02.403.330.149,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D054597,Disaster Medicine,http://id.nlm.nih.gov/mesh/H02.403.230,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D055416,Evidence-Based Emergency Medicine,http://id.nlm.nih.gov/mesh/H02.403.200.400.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D055813,Wilderness Medicine,http://id.nlm.nih.gov/mesh/H02.403.959,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D056508,Sleep Medicine Specialty,http://id.nlm.nih.gov/mesh/H02.403.429.865,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D057089,"Pathology, Molecular",http://id.nlm.nih.gov/mesh/H02.403.650.505,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D057236,Travel Medicine,http://id.nlm.nih.gov/mesh/H02.403.850,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D057909,Orthognathic Surgery,http://id.nlm.nih.gov/mesh/H02.403.810.481,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000071939,Stroke Rehabilitation,http://id.nlm.nih.gov/mesh/H02.403.680.600.750.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000072038,Cardiac Rehabilitation,http://id.nlm.nih.gov/mesh/H02.403.680.600.250,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000296,Adolescent Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.080,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000337,Aerospace Medicine,http://id.nlm.nih.gov/mesh/H02.403.029,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000486,Allergy and Immunology,http://id.nlm.nih.gov/mesh/H02.403.044,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D005554,Forensic Medicine,http://id.nlm.nih.gov/mesh/H02.403.330,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D011570,Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D011871,Radiology,http://id.nlm.nih.gov/mesh/H02.403.740,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D057285,Precision Medicine,http://id.nlm.nih.gov/mesh/H02.403.200.700,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000776,Anesthesiology,http://id.nlm.nih.gov/mesh/H02.403.066,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D001524,Behavioral Medicine,http://id.nlm.nih.gov/mesh/H02.403.090,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D005826,"Genetics, Medical",http://id.nlm.nih.gov/mesh/H02.403.350,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010036,Otolaryngology,http://id.nlm.nih.gov/mesh/H02.403.810.526,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D055552,Infectious Disease Medicine,http://id.nlm.nih.gov/mesh/H02.403.429.480,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D049429,Forensic Pathology,http://id.nlm.nih.gov/mesh/H02.403.330.300,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D049429,Forensic Pathology,http://id.nlm.nih.gov/mesh/H02.403.650.249,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D052938,Bariatric Medicine,http://id.nlm.nih.gov/mesh/H02.403.074,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D063165,Neurotology,http://id.nlm.nih.gov/mesh/H02.403.600.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D063165,Neurotology,http://id.nlm.nih.gov/mesh/H02.403.810.526.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D064132,Sports Nutritional Sciences,http://id.nlm.nih.gov/mesh/H02.403.830.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D001689,Biological Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.100,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D002309,Cardiology,http://id.nlm.nih.gov/mesh/H02.403.429.163,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D007388,Internal Medicine,http://id.nlm.nih.gov/mesh/H02.403.429,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D014330,Tropical Medicine,http://id.nlm.nih.gov/mesh/H02.403.879,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D014686,Venereology,http://id.nlm.nih.gov/mesh/H02.403.909,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D014943,Global Health,http://id.nlm.nih.gov/mesh/H02.403.371,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D033441,Andrology,http://id.nlm.nih.gov/mesh/H02.403.763.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D054849,Cardiac Electrophysiology,http://id.nlm.nih.gov/mesh/H02.403.429.163.300,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D015272,Pulmonary Medicine,http://id.nlm.nih.gov/mesh/H02.403.429.675,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D015510,Clinical Medicine,http://id.nlm.nih.gov/mesh/H02.403.200,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D015642,"Radiology, Interventional",http://id.nlm.nih.gov/mesh/H02.403.740.675,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D018787,Radiation Oncology,http://id.nlm.nih.gov/mesh/H02.403.429.515.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D018787,Radiation Oncology,http://id.nlm.nih.gov/mesh/H02.403.740.650,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D019112,Teleradiology,http://id.nlm.nih.gov/mesh/H02.403.840.700,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D019113,Telepathology,http://id.nlm.nih.gov/mesh/H02.403.650.600,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D019113,Telepathology,http://id.nlm.nih.gov/mesh/H02.403.840.600,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D062306,"Geography, Medical",http://id.nlm.nih.gov/mesh/H02.403.352,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D004704,Endocrinology,http://id.nlm.nih.gov/mesh/H02.403.429.323,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D005194,Family Practice,http://id.nlm.nih.gov/mesh/H02.403.340.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D058006,General Practice,http://id.nlm.nih.gov/mesh/H02.403.340,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D005762,Gastroenterology,http://id.nlm.nih.gov/mesh/H02.403.429.405,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D005852,Geriatric Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.260,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D005853,Geriatrics,http://id.nlm.nih.gov/mesh/H02.403.355,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D006176,Gynecology,http://id.nlm.nih.gov/mesh/H02.403.763.750,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D006176,Gynecology,http://id.nlm.nih.gov/mesh/H02.403.810.310,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D006405,Hematology,http://id.nlm.nih.gov/mesh/H02.403.429.445,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D013903,Thoracic Surgery,http://id.nlm.nih.gov/mesh/H02.403.810.803,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D018456,Reproductive Medicine,http://id.nlm.nih.gov/mesh/H02.403.763,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D019371,"Topography, Medical",http://id.nlm.nih.gov/mesh/H02.403.352.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D062346,Molecular Medicine,http://id.nlm.nih.gov/mesh/H02.403.530,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D064826,Transfusion Medicine,http://id.nlm.nih.gov/mesh/H02.403.429.445.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D007120,Immunochemistry,http://id.nlm.nih.gov/mesh/H02.403.044.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009787,Occupational Medicine,http://id.nlm.nih.gov/mesh/H02.403.720.750.510,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D055048,Integrative Medicine,http://id.nlm.nih.gov/mesh/H02.403.400,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009398,Nephrology,http://id.nlm.nih.gov/mesh/H02.403.429.580,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009493,Neurosurgery,http://id.nlm.nih.gov/mesh/H02.403.810.425,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009774,Obstetrics,http://id.nlm.nih.gov/mesh/H02.403.810.450,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009885,Ophthalmology,http://id.nlm.nih.gov/mesh/H02.403.810.468,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D009985,Orthopedics,http://id.nlm.nih.gov/mesh/H02.403.810.494,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010021,Osteopathic Medicine,http://id.nlm.nih.gov/mesh/H02.403.640,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D013366,Submarine Medicine,http://id.nlm.nih.gov/mesh/H02.403.560.508,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D058027,Neuropsychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.754,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D065126,Palliative Medicine,http://id.nlm.nih.gov/mesh/H02.403.645,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010338,"Pathology, Clinical",http://id.nlm.nih.gov/mesh/H02.403.650.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010340,"Pathology, Surgical",http://id.nlm.nih.gov/mesh/H02.403.650.510,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010500,Perinatology,http://id.nlm.nih.gov/mesh/H02.403.670.500,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D010810,Physical and Rehabilitation Medicine,http://id.nlm.nih.gov/mesh/H02.403.680,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D064796,Veterinary Sports Medicine,http://id.nlm.nih.gov/mesh/H02.403.830.750,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D011316,Preventive Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.690.150.580,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D011316,Preventive Psychiatry,http://id.nlm.nih.gov/mesh/H02.403.720.750.550,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D012219,Rheumatology,http://id.nlm.nih.gov/mesh/H02.403.429.730,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D012936,Social Medicine,http://id.nlm.nih.gov/mesh/H02.403.800,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D017720,Molecular Epidemiology,http://id.nlm.nih.gov/mesh/H02.403.720.500.300,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D017891,Pharmacoepidemiology,http://id.nlm.nih.gov/mesh/H02.403.720.500.650,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D064416,Hospital Medicine,http://id.nlm.nih.gov/mesh/H02.403.377,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D044968,Regenerative Medicine,http://id.nlm.nih.gov/mesh/H02.403.750,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000073316,Addiction Medicine,http://id.nlm.nih.gov/mesh/H02.403.007,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000073320,Psycho-Oncology,http://id.nlm.nih.gov/mesh/H02.403.429.515.250,http://id.nlm.nih.gov/mesh/H02.403
+http://id.nlm.nih.gov/mesh/D000078782,Vaccinology,http://id.nlm.nih.gov/mesh/H02.403.894,http://id.nlm.nih.gov/mesh/H02.403
