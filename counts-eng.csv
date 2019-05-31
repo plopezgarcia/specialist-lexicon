@@ -22,109 +22,109 @@
 20,General Practice,H02.403.340,H02.403.340,0,1000,1000
 21,Family Practice,H02.403.340.500,H02.403.340,1,1000,1000
 22,"Genetics, Medical",H02.403.350,H02.403.350,0,1000,1000
-23,"Geography, Medical",H02.403.352,H02.403.352,0,"Geography, Medical[MH]","(Geography, Medical[MH] OR Topography, Medical[MH])"
-24,"Topography, Medical",H02.403.352.500,H02.403.352,1,"Topography, Medical[MH]","(Topography, Medical[MH])"
-25,Geriatrics,H02.403.355,H02.403.355,0,Geriatrics[MH],(Geriatrics[MH])
-26,Global Health,H02.403.371,H02.403.371,0,Global Health[MH],(Global Health[MH])
-27,Hospital Medicine,H02.403.377,H02.403.377,0,Hospital Medicine[MH],(Hospital Medicine[MH])
-28,Integrative Medicine,H02.403.400,H02.403.400,0,Integrative Medicine[MH],(Integrative Medicine[MH])
-29,Internal Medicine,H02.403.429,H02.403.429,0,Internal Medicine[MH],(Internal Medicine[MH] OR Cardiology[MH] OR Cardiac Electrophysiology[MH] OR Endocrinology[MH] OR Gastroenterology[MH] OR Hematology[MH] OR Transfusion Medicine[MH] OR Infectious Disease Medicine[MH] OR Medical Oncology[MH] OR Psycho-Oncology[MH] OR Radiation Oncology[MH] OR Surgical Oncology[MH] OR Nephrology[MH] OR Pulmonary Medicine[MH] OR Rheumatology[MH] OR Sleep Medicine Specialty[MH])
-30,Cardiology,H02.403.429.163,H02.403.429,1,Cardiology[MH],(Cardiology[MH] OR Cardiac Electrophysiology[MH])
-31,Cardiac Electrophysiology,H02.403.429.163.300,H02.403.429,2,Cardiac Electrophysiology[MH],(Cardiac Electrophysiology[MH])
-32,Endocrinology,H02.403.429.323,H02.403.429,1,Endocrinology[MH],(Endocrinology[MH])
-33,Gastroenterology,H02.403.429.405,H02.403.429,1,Gastroenterology[MH],(Gastroenterology[MH])
-34,Hematology,H02.403.429.445,H02.403.429,1,Hematology[MH],(Hematology[MH] OR Transfusion Medicine[MH])
-35,Transfusion Medicine,H02.403.429.445.500,H02.403.429,2,Transfusion Medicine[MH],(Transfusion Medicine[MH])
-36,Infectious Disease Medicine,H02.403.429.480,H02.403.429,1,Infectious Disease Medicine[MH],(Infectious Disease Medicine[MH])
-37,Medical Oncology,H02.403.429.515,H02.403.429,1,Medical Oncology[MH],(Medical Oncology[MH] OR Psycho-Oncology[MH] OR Radiation Oncology[MH] OR Surgical Oncology[MH])
-38,Psycho-Oncology,H02.403.429.515.250,H02.403.429,2,Psycho-Oncology[MH],(Psycho-Oncology[MH])
-39,Radiation Oncology,H02.403.429.515.500,H02.403.429,2,Radiation Oncology[MH],(Radiation Oncology[MH])
-40,Surgical Oncology,H02.403.429.515.750,H02.403.429,2,Surgical Oncology[MH],(Surgical Oncology[MH])
-41,Nephrology,H02.403.429.580,H02.403.429,1,Nephrology[MH],(Nephrology[MH])
-42,Pulmonary Medicine,H02.403.429.675,H02.403.429,1,Pulmonary Medicine[MH],(Pulmonary Medicine[MH])
-43,Rheumatology,H02.403.429.730,H02.403.429,1,Rheumatology[MH],(Rheumatology[MH])
-44,Sleep Medicine Specialty,H02.403.429.865,H02.403.429,1,Sleep Medicine Specialty[MH],(Sleep Medicine Specialty[MH])
-45,Military Medicine,H02.403.500,H02.403.500,0,Military Medicine[MH],(Military Medicine[MH])
-46,Molecular Medicine,H02.403.530,H02.403.530,0,Molecular Medicine[MH],(Molecular Medicine[MH])
-47,Naval Medicine,H02.403.560,H02.403.560,0,Naval Medicine[MH],(Naval Medicine[MH] OR Submarine Medicine[MH])
-48,Submarine Medicine,H02.403.560.508,H02.403.560,1,Submarine Medicine[MH],(Submarine Medicine[MH])
-49,Neurology,H02.403.600,H02.403.600,0,Neurology[MH],(Neurology[MH] OR Neuropathology[MH] OR Neurotology[MH])
-50,Neuropathology,H02.403.600.250,H02.403.600,1,Neuropathology[MH],(Neuropathology[MH])
-51,Neurotology,H02.403.600.500,H02.403.600,1,Neurotology[MH],(Neurotology[MH])
-52,Osteopathic Medicine,H02.403.640,H02.403.640,0,Osteopathic Medicine[MH],(Osteopathic Medicine[MH])
-53,Palliative Medicine,H02.403.645,H02.403.645,0,Palliative Medicine[MH],(Palliative Medicine[MH])
-54,Pathology,H02.403.650,H02.403.650,0,Pathology[MH],"(Pathology[MH] OR Forensic Pathology[MH] OR Neuropathology[MH] OR Pathology, Clinical[MH] OR Pathology, Molecular[MH] OR Pathology, Surgical[MH] OR Telepathology[MH])"
-55,Forensic Pathology,H02.403.650.249,H02.403.650,1,Forensic Pathology[MH],(Forensic Pathology[MH])
-56,Neuropathology,H02.403.650.375,H02.403.650,1,Neuropathology[MH],(Neuropathology[MH])
-57,"Pathology, Clinical",H02.403.650.500,H02.403.650,1,"Pathology, Clinical[MH]","(Pathology, Clinical[MH])"
-58,"Pathology, Molecular",H02.403.650.505,H02.403.650,1,"Pathology, Molecular[MH]","(Pathology, Molecular[MH])"
-59,"Pathology, Surgical",H02.403.650.510,H02.403.650,1,"Pathology, Surgical[MH]","(Pathology, Surgical[MH])"
-60,Telepathology,H02.403.650.600,H02.403.650,1,Telepathology[MH],(Telepathology[MH])
-61,Pediatrics,H02.403.670,H02.403.670,0,Pediatrics[MH],(Pediatrics[MH] OR Neonatology[MH] OR Pediatric Emergency Medicine[MH] OR Perinatology[MH])
-62,Neonatology,H02.403.670.400,H02.403.670,1,Neonatology[MH],(Neonatology[MH])
-63,Pediatric Emergency Medicine,H02.403.670.450,H02.403.670,1,Pediatric Emergency Medicine[MH],(Pediatric Emergency Medicine[MH])
-64,Perinatology,H02.403.670.500,H02.403.670,1,Perinatology[MH],(Perinatology[MH])
-65,Physical and Rehabilitation Medicine,H02.403.680,H02.403.680,0,Physical and Rehabilitation Medicine[MH],(Physical and Rehabilitation Medicine[MH] OR Rehabilitation[MH] OR Cardiac Rehabilitation[MH] OR Correction of Hearing Impairment[MH] OR Neurological Rehabilitation[MH] OR Stroke Rehabilitation[MH] OR Psychiatric Rehabilitation[MH] OR Telerehabilitation[MH])
-66,Rehabilitation,H02.403.680.600,H02.403.680,1,Rehabilitation[MH],(Rehabilitation[MH] OR Cardiac Rehabilitation[MH] OR Correction of Hearing Impairment[MH] OR Neurological Rehabilitation[MH] OR Stroke Rehabilitation[MH] OR Psychiatric Rehabilitation[MH] OR Telerehabilitation[MH])
-67,Cardiac Rehabilitation,H02.403.680.600.250,H02.403.680,2,Cardiac Rehabilitation[MH],(Cardiac Rehabilitation[MH])
-68,Correction of Hearing Impairment,H02.403.680.600.500,H02.403.680,2,Correction of Hearing Impairment[MH],(Correction of Hearing Impairment[MH])
-69,Neurological Rehabilitation,H02.403.680.600.750,H02.403.680,2,Neurological Rehabilitation[MH],(Neurological Rehabilitation[MH] OR Stroke Rehabilitation[MH])
-70,Stroke Rehabilitation,H02.403.680.600.750.500,H02.403.680,3,Stroke Rehabilitation[MH],(Stroke Rehabilitation[MH])
-71,Psychiatric Rehabilitation,H02.403.680.600.875,H02.403.680,2,Psychiatric Rehabilitation[MH],(Psychiatric Rehabilitation[MH])
-72,Telerehabilitation,H02.403.680.600.937,H02.403.680,2,Telerehabilitation[MH],(Telerehabilitation[MH])
-73,Psychiatry,H02.403.690,H02.403.690,0,Psychiatry[MH],(Psychiatry[MH] OR Adolescent Psychiatry[MH] OR Biological Psychiatry[MH] OR Child Psychiatry[MH] OR Community Psychiatry[MH] OR Preventive Psychiatry[MH] OR Forensic Psychiatry[MH] OR Geriatric Psychiatry[MH] OR Military Psychiatry[MH] OR Neuropsychiatry[MH])
-74,Adolescent Psychiatry,H02.403.690.080,H02.403.690,1,Adolescent Psychiatry[MH],(Adolescent Psychiatry[MH])
-75,Biological Psychiatry,H02.403.690.100,H02.403.690,1,Biological Psychiatry[MH],(Biological Psychiatry[MH])
-76,Child Psychiatry,H02.403.690.130,H02.403.690,1,Child Psychiatry[MH],(Child Psychiatry[MH])
-77,Community Psychiatry,H02.403.690.150,H02.403.690,1,Community Psychiatry[MH],(Community Psychiatry[MH] OR Preventive Psychiatry[MH])
-78,Preventive Psychiatry,H02.403.690.150.580,H02.403.690,2,Preventive Psychiatry[MH],(Preventive Psychiatry[MH])
-79,Forensic Psychiatry,H02.403.690.208,H02.403.690,1,Forensic Psychiatry[MH],(Forensic Psychiatry[MH])
-80,Geriatric Psychiatry,H02.403.690.260,H02.403.690,1,Geriatric Psychiatry[MH],(Geriatric Psychiatry[MH])
-81,Military Psychiatry,H02.403.690.508,H02.403.690,1,Military Psychiatry[MH],(Military Psychiatry[MH])
-82,Neuropsychiatry,H02.403.690.754,H02.403.690,1,Neuropsychiatry[MH],(Neuropsychiatry[MH])
-83,Public Health,H02.403.720,H02.403.720,0,Public Health[MH],(Public Health[MH] OR Epidemiology[MH] OR Molecular Epidemiology[MH] OR Pharmacoepidemiology[MH] OR Preventive Medicine[MH] OR Environmental Medicine[MH] OR Occupational Medicine[MH] OR Preventive Psychiatry[MH])
-84,Epidemiology,H02.403.720.500,H02.403.720,1,Epidemiology[MH],(Epidemiology[MH] OR Molecular Epidemiology[MH] OR Pharmacoepidemiology[MH])
-85,Molecular Epidemiology,H02.403.720.500.300,H02.403.720,2,Molecular Epidemiology[MH],(Molecular Epidemiology[MH])
-86,Pharmacoepidemiology,H02.403.720.500.650,H02.403.720,2,Pharmacoepidemiology[MH],(Pharmacoepidemiology[MH])
-87,Preventive Medicine,H02.403.720.750,H02.403.720,1,Preventive Medicine[MH],(Preventive Medicine[MH] OR Environmental Medicine[MH] OR Occupational Medicine[MH] OR Preventive Psychiatry[MH])
-88,Environmental Medicine,H02.403.720.750.250,H02.403.720,2,Environmental Medicine[MH],(Environmental Medicine[MH])
-89,Occupational Medicine,H02.403.720.750.510,H02.403.720,2,Occupational Medicine[MH],(Occupational Medicine[MH])
-90,Preventive Psychiatry,H02.403.720.750.550,H02.403.720,2,Preventive Psychiatry[MH],(Preventive Psychiatry[MH])
-91,Radiology,H02.403.740,H02.403.740,0,Radiology[MH],"(Radiology[MH] OR Nuclear Medicine[MH] OR Radiation Oncology[MH] OR Radiology, Interventional[MH])"
-92,Nuclear Medicine,H02.403.740.500,H02.403.740,1,Nuclear Medicine[MH],(Nuclear Medicine[MH])
-93,Radiation Oncology,H02.403.740.650,H02.403.740,1,Radiation Oncology[MH],(Radiation Oncology[MH])
-94,"Radiology, Interventional",H02.403.740.675,H02.403.740,1,"Radiology, Interventional[MH]","(Radiology, Interventional[MH])"
-95,Regenerative Medicine,H02.403.750,H02.403.750,0,Regenerative Medicine[MH],(Regenerative Medicine[MH])
-96,Reproductive Medicine,H02.403.763,H02.403.763,0,Reproductive Medicine[MH],(Reproductive Medicine[MH] OR Andrology[MH] OR Gynecology[MH])
-97,Andrology,H02.403.763.500,H02.403.763,1,Andrology[MH],(Andrology[MH])
-98,Gynecology,H02.403.763.750,H02.403.763,1,Gynecology[MH],(Gynecology[MH])
-99,Social Medicine,H02.403.800,H02.403.800,0,Social Medicine[MH],(Social Medicine[MH])
-100,"Specialties, Surgical",H02.403.810,H02.403.810,0,"Specialties, Surgical[MH]","(Specialties, Surgical[MH] OR Colorectal Surgery[MH] OR General Surgery[MH] OR Gynecology[MH] OR Neurosurgery[MH] OR Obstetrics[MH] OR Ophthalmology[MH] OR Orthognathic Surgery[MH] OR Orthopedics[MH] OR Otolaryngology[MH] OR Neurotology[MH] OR Surgery, Plastic[MH] OR Surgical Oncology[MH] OR Thoracic Surgery[MH] OR Traumatology[MH] OR Urology[MH])"
-101,Colorectal Surgery,H02.403.810.208,H02.403.810,1,Colorectal Surgery[MH],(Colorectal Surgery[MH])
-102,General Surgery,H02.403.810.300,H02.403.810,1,General Surgery[MH],(General Surgery[MH])
-103,Gynecology,H02.403.810.310,H02.403.810,1,Gynecology[MH],(Gynecology[MH])
-104,Neurosurgery,H02.403.810.425,H02.403.810,1,Neurosurgery[MH],(Neurosurgery[MH])
-105,Obstetrics,H02.403.810.450,H02.403.810,1,Obstetrics[MH],(Obstetrics[MH])
-106,Ophthalmology,H02.403.810.468,H02.403.810,1,Ophthalmology[MH],(Ophthalmology[MH])
-107,Orthognathic Surgery,H02.403.810.481,H02.403.810,1,Orthognathic Surgery[MH],(Orthognathic Surgery[MH])
-108,Orthopedics,H02.403.810.494,H02.403.810,1,Orthopedics[MH],(Orthopedics[MH])
-109,Otolaryngology,H02.403.810.526,H02.403.810,1,Otolaryngology[MH],(Otolaryngology[MH] OR Neurotology[MH])
-110,Neurotology,H02.403.810.526.500,H02.403.810,2,Neurotology[MH],(Neurotology[MH])
-111,"Surgery, Plastic",H02.403.810.788,H02.403.810,1,"Surgery, Plastic[MH]","(Surgery, Plastic[MH])"
-112,Surgical Oncology,H02.403.810.796,H02.403.810,1,Surgical Oncology[MH],(Surgical Oncology[MH])
-113,Thoracic Surgery,H02.403.810.803,H02.403.810,1,Thoracic Surgery[MH],(Thoracic Surgery[MH])
-114,Traumatology,H02.403.810.850,H02.403.810,1,Traumatology[MH],(Traumatology[MH])
-115,Urology,H02.403.810.860,H02.403.810,1,Urology[MH],(Urology[MH])
-116,Sports Medicine,H02.403.830,H02.403.830,0,Sports Medicine[MH],(Sports Medicine[MH] OR Sports Nutritional Sciences[MH] OR Veterinary Sports Medicine[MH])
-117,Sports Nutritional Sciences,H02.403.830.500,H02.403.830,1,Sports Nutritional Sciences[MH],(Sports Nutritional Sciences[MH])
-118,Veterinary Sports Medicine,H02.403.830.750,H02.403.830,1,Veterinary Sports Medicine[MH],(Veterinary Sports Medicine[MH])
-119,Telemedicine,H02.403.840,H02.403.840,0,Telemedicine[MH],(Telemedicine[MH] OR Telepathology[MH] OR Teleradiology[MH] OR Telerehabilitation[MH])
-120,Telepathology,H02.403.840.600,H02.403.840,1,Telepathology[MH],(Telepathology[MH])
-121,Teleradiology,H02.403.840.700,H02.403.840,1,Teleradiology[MH],(Teleradiology[MH])
-122,Telerehabilitation,H02.403.840.850,H02.403.840,1,Telerehabilitation[MH],(Telerehabilitation[MH])
-123,Theranostic Nanomedicine,H02.403.845,H02.403.845,0,Theranostic Nanomedicine[MH],(Theranostic Nanomedicine[MH])
-124,Travel Medicine,H02.403.850,H02.403.850,0,Travel Medicine[MH],(Travel Medicine[MH])
-125,Tropical Medicine,H02.403.879,H02.403.879,0,Tropical Medicine[MH],(Tropical Medicine[MH])
-126,Vaccinology,H02.403.894,H02.403.894,0,Vaccinology[MH],(Vaccinology[MH])
-127,Venereology,H02.403.909,H02.403.909,0,Venereology[MH],(Venereology[MH])
-128,Wilderness Medicine,H02.403.959,H02.403.959,0,Wilderness Medicine[MH],(Wilderness Medicine[MH])
+23,"Geography, Medical",H02.403.352,H02.403.352,0,1000,1000
+24,"Topography, Medical",H02.403.352.500,H02.403.352,1,1000,1000
+25,Geriatrics,H02.403.355,H02.403.355,0,1000,1000
+26,Global Health,H02.403.371,H02.403.371,0,1000,1000
+27,Hospital Medicine,H02.403.377,H02.403.377,0,129,129
+28,Integrative Medicine,H02.403.400,H02.403.400,0,1000,1000
+29,Internal Medicine,H02.403.429,H02.403.429,0,1000,1000
+30,Cardiology,H02.403.429.163,H02.403.429,1,1000,1000
+31,Cardiac Electrophysiology,H02.403.429.163.300,H02.403.429,2,374,374
+32,Endocrinology,H02.403.429.323,H02.403.429,1,1000,1000
+33,Gastroenterology,H02.403.429.405,H02.403.429,1,1000,1000
+34,Hematology,H02.403.429.445,H02.403.429,1,1000,1000
+35,Transfusion Medicine,H02.403.429.445.500,H02.403.429,2,174,174
+36,Infectious Disease Medicine,H02.403.429.480,H02.403.429,1,438,438
+37,Medical Oncology,H02.403.429.515,H02.403.429,1,1000,1000
+38,Psycho-Oncology,H02.403.429.515.250,H02.403.429,2,41,41
+39,Radiation Oncology,H02.403.429.515.500,H02.403.429,2,1000,1000
+40,Surgical Oncology,H02.403.429.515.750,H02.403.429,2,239,239
+41,Nephrology,H02.403.429.580,H02.403.429,1,1000,1000
+42,Pulmonary Medicine,H02.403.429.675,H02.403.429,1,1000,1000
+43,Rheumatology,H02.403.429.730,H02.403.429,1,1000,1000
+44,Sleep Medicine Specialty,H02.403.429.865,H02.403.429,1,283,283
+45,Military Medicine,H02.403.500,H02.403.500,0,1000,1000
+46,Molecular Medicine,H02.403.530,H02.403.530,0,1000,1000
+47,Naval Medicine,H02.403.560,H02.403.560,0,1000,1000
+48,Submarine Medicine,H02.403.560.508,H02.403.560,1,508,508
+49,Neurology,H02.403.600,H02.403.600,0,1000,1000
+50,Neuropathology,H02.403.600.250,H02.403.600,1,164,164
+51,Neurotology,H02.403.600.500,H02.403.600,1,63,63
+52,Osteopathic Medicine,H02.403.640,H02.403.640,0,1000,1000
+53,Palliative Medicine,H02.403.645,H02.403.645,0,227,227
+54,Pathology,H02.403.650,H02.403.650,0,1000,1000
+55,Forensic Pathology,H02.403.650.249,H02.403.650,1,1000,1000
+56,Neuropathology,H02.403.650.375,H02.403.650,1,164,164
+57,"Pathology, Clinical",H02.403.650.500,H02.403.650,1,1000,1000
+58,"Pathology, Molecular",H02.403.650.505,H02.403.650,1,1000,1000
+59,"Pathology, Surgical",H02.403.650.510,H02.403.650,1,1000,1000
+60,Telepathology,H02.403.650.600,H02.403.650,1,723,723
+61,Pediatrics,H02.403.670,H02.403.670,0,1000,1000
+62,Neonatology,H02.403.670.400,H02.403.670,1,1000,1000
+63,Pediatric Emergency Medicine,H02.403.670.450,H02.403.670,1,171,171
+64,Perinatology,H02.403.670.500,H02.403.670,1,1000,1000
+65,Physical and Rehabilitation Medicine,H02.403.680,H02.403.680,0,1000,1000
+66,Rehabilitation,H02.403.680.600,H02.403.680,1,1000,1000
+67,Cardiac Rehabilitation,H02.403.680.600.250,H02.403.680,2,1000,1000
+68,Correction of Hearing Impairment,H02.403.680.600.500,H02.403.680,2,1000,1000
+69,Neurological Rehabilitation,H02.403.680.600.750,H02.403.680,2,1000,1000
+70,Stroke Rehabilitation,H02.403.680.600.750.500,H02.403.680,3,1000,1000
+71,Psychiatric Rehabilitation,H02.403.680.600.875,H02.403.680,2,250,250
+72,Telerehabilitation,H02.403.680.600.937,H02.403.680,2,239,239
+73,Psychiatry,H02.403.690,H02.403.690,0,1000,1000
+74,Adolescent Psychiatry,H02.403.690.080,H02.403.690,1,1000,1000
+75,Biological Psychiatry,H02.403.690.100,H02.403.690,1,661,661
+76,Child Psychiatry,H02.403.690.130,H02.403.690,1,1000,1000
+77,Community Psychiatry,H02.403.690.150,H02.403.690,1,1000,1000
+78,Preventive Psychiatry,H02.403.690.150.580,H02.403.690,2,196,196
+79,Forensic Psychiatry,H02.403.690.208,H02.403.690,1,1000,1000
+80,Geriatric Psychiatry,H02.403.690.260,H02.403.690,1,1000,1000
+81,Military Psychiatry,H02.403.690.508,H02.403.690,1,1000,1000
+82,Neuropsychiatry,H02.403.690.754,H02.403.690,1,469,469
+83,Public Health,H02.403.720,H02.403.720,0,1000,1000
+84,Epidemiology,H02.403.720.500,H02.403.720,1,1000,1000
+85,Molecular Epidemiology,H02.403.720.500.300,H02.403.720,2,1000,1000
+86,Pharmacoepidemiology,H02.403.720.500.650,H02.403.720,2,1000,1000
+87,Preventive Medicine,H02.403.720.750,H02.403.720,1,1000,1000
+88,Environmental Medicine,H02.403.720.750.250,H02.403.720,2,313,313
+89,Occupational Medicine,H02.403.720.750.510,H02.403.720,2,1000,1000
+90,Preventive Psychiatry,H02.403.720.750.550,H02.403.720,2,196,196
+91,Radiology,H02.403.740,H02.403.740,0,1000,1000
+92,Nuclear Medicine,H02.403.740.500,H02.403.740,1,1000,1000
+93,Radiation Oncology,H02.403.740.650,H02.403.740,1,1000,1000
+94,"Radiology, Interventional",H02.403.740.675,H02.403.740,1,1000,1000
+95,Regenerative Medicine,H02.403.750,H02.403.750,0,1000,1000
+96,Reproductive Medicine,H02.403.763,H02.403.763,0,1000,1000
+97,Andrology,H02.403.763.500,H02.403.763,1,223,223
+98,Gynecology,H02.403.763.750,H02.403.763,1,1000,1000
+99,Social Medicine,H02.403.800,H02.403.800,0,1000,1000
+100,"Specialties, Surgical",H02.403.810,H02.403.810,0,1000,1000
+101,Colorectal Surgery,H02.403.810.208,H02.403.810,1,1000,1000
+102,General Surgery,H02.403.810.300,H02.403.810,1,1000,1000
+103,Gynecology,H02.403.810.310,H02.403.810,1,1000,1000
+104,Neurosurgery,H02.403.810.425,H02.403.810,1,1000,1000
+105,Obstetrics,H02.403.810.450,H02.403.810,1,1000,1000
+106,Ophthalmology,H02.403.810.468,H02.403.810,1,1000,1000
+107,Orthognathic Surgery,H02.403.810.481,H02.403.810,1,1000,1000
+108,Orthopedics,H02.403.810.494,H02.403.810,1,1000,1000
+109,Otolaryngology,H02.403.810.526,H02.403.810,1,1000,1000
+110,Neurotology,H02.403.810.526.500,H02.403.810,2,63,63
+111,"Surgery, Plastic",H02.403.810.788,H02.403.810,1,1000,1000
+112,Surgical Oncology,H02.403.810.796,H02.403.810,1,239,239
+113,Thoracic Surgery,H02.403.810.803,H02.403.810,1,1000,1000
+114,Traumatology,H02.403.810.850,H02.403.810,1,1000,1000
+115,Urology,H02.403.810.860,H02.403.810,1,1000,1000
+116,Sports Medicine,H02.403.830,H02.403.830,0,1000,1000
+117,Sports Nutritional Sciences,H02.403.830.500,H02.403.830,1,44,44
+118,Veterinary Sports Medicine,H02.403.830.750,H02.403.830,1,3,3
+119,Telemedicine,H02.403.840,H02.403.840,0,1000,1000
+120,Telepathology,H02.403.840.600,H02.403.840,1,723,723
+121,Teleradiology,H02.403.840.700,H02.403.840,1,1000,1000
+122,Telerehabilitation,H02.403.840.850,H02.403.840,1,239,239
+123,Theranostic Nanomedicine,H02.403.845,H02.403.845,0,1000,1000
+124,Travel Medicine,H02.403.850,H02.403.850,0,542,542
+125,Tropical Medicine,H02.403.879,H02.403.879,0,1000,1000
+126,Vaccinology,H02.403.894,H02.403.894,0,17,17
+127,Venereology,H02.403.909,H02.403.909,0,406,406
+128,Wilderness Medicine,H02.403.959,H02.403.959,0,263,263
