@@ -1,0 +1,130 @@
+,descriptor,label,treeNum,medicineTreeNum,labelSpa
+0,D003880,Dermatology,H02.403.225,H02.403,Dermatología
+1,D004813,Epidemiology,H02.403.720.500,H02.403,Epidemiología
+2,D011315,Preventive Medicine,H02.403.720.750,H02.403,Medicina Preventiva
+3,D019317,Evidence-Based Medicine,H02.403.200.400,H02.403,Medicina Basada en la Evidencia
+4,D000066530,Neurological Rehabilitation,H02.403.680.600.750,H02.403,Rehabilitación Neurológica
+5,D000067250,Psychiatric Rehabilitation,H02.403.680.600.875,H02.403,Rehabilitación Psiquiátrica
+6,D000068936,Theranostic Nanomedicine,H02.403.845,H02.403,Nanomedicina Teranóstica
+7,D000069338,Neuropathology,H02.403.600.250,H02.403,Neuropatología
+8,D000069338,Neuropathology,H02.403.650.375,H02.403,Neuropatología
+9,D000069350,Telerehabilitation,H02.403.680.600.937,H02.403,Telerrehabilitación
+10,D000069350,Telerehabilitation,H02.403.840.850,H02.403,Telerrehabilitación
+11,D000070316,Pediatric Emergency Medicine,H02.403.250.500,H02.403,Medicina de Urgencia Pediátrica
+12,D000070316,Pediatric Emergency Medicine,H02.403.670.450,H02.403,Medicina de Urgencia Pediátrica
+13,D000071077,Surgical Oncology,H02.403.429.515.750,H02.403,Oncología Quirúrgica
+14,D000071077,Surgical Oncology,H02.403.810.796,H02.403,Oncología Quirúrgica
+15,D000295,Adolescent Medicine,H02.403.014,H02.403,Medicina del Adolescente
+16,D004635,Emergency Medicine,H02.403.250,H02.403,Medicina de Emergencia
+17,D008495,Medical Oncology,H02.403.429.515,H02.403,Oncología Médica
+18,D009462,Neurology,H02.403.600,H02.403,Neurología
+19,D009683,Nuclear Medicine,H02.403.740.500,H02.403,Medicina Nuclear
+20,D010336,Pathology,H02.403.650,H02.403,Patología
+21,D010372,Pediatrics,H02.403.670,H02.403,Pediatría
+22,D011634,Public Health,H02.403.720,H02.403,Salud Pública
+23,D012046,Rehabilitation,H02.403.680.600,H02.403,Rehabilitación
+24,D013043,"Specialties, Surgical",H02.403.810,H02.403,Especialidades Quirúrgicas
+25,D013178,Sports Medicine,H02.403.830,H02.403,Medicina Deportiva
+26,D017216,Telemedicine,H02.403.840,H02.403,Telemedicina
+27,D019550,Environmental Medicine,H02.403.720.750.250,H02.403,Medicina Ambiental
+28,D002665,Child Psychiatry,H02.403.690.130,H02.403,Psiquiatría Infantil
+29,D003107,Colorectal Surgery,H02.403.810.208,H02.403,Cirugía Colorrectal
+30,D003154,Community Medicine,H02.403.220,H02.403,Medicina Comunitaria
+31,D003158,Community Psychiatry,H02.403.690.150,H02.403,Psiquiatría Comunitaria
+32,D005555,Forensic Psychiatry,H02.403.690.208,H02.403,Psiquiatría Forense
+33,D012048,Correction of Hearing Impairment,H02.403.680.600.500,H02.403,Corrección de Deficiencia Auditiva
+34,D008887,Military Medicine,H02.403.500,H02.403,Medicina Militar
+35,D008890,Military Psychiatry,H02.403.690.508,H02.403,Psiquiatría Militar
+36,D009326,Naval Medicine,H02.403.560,H02.403,Medicina Naval
+37,D009359,Neonatology,H02.403.670.400,H02.403,Neonatología
+38,D013502,General Surgery,H02.403.810.300,H02.403,Cirugía General
+39,D013518,"Surgery, Plastic",H02.403.810.788,H02.403,Cirugía Plástica
+40,D014194,Traumatology,H02.403.810.850,H02.403,Traumatología
+41,D014572,Urology,H02.403.810.860,H02.403,Urología
+42,D053803,Forensic Genetics,H02.403.330.149,H02.403,Genética Forense
+43,D054597,Disaster Medicine,H02.403.230,H02.403,Medicina de Desastres
+44,D055416,Evidence-Based Emergency Medicine,H02.403.200.400.500,H02.403,Medicina de Emergencia Basada en la Evidencia
+45,D055813,Wilderness Medicine,H02.403.959,H02.403,Medicina Silvestre
+46,D056508,Sleep Medicine Specialty,H02.403.429.865,H02.403,Medicina del Sueño
+47,D057089,"Pathology, Molecular",H02.403.650.505,H02.403,Patología Molecular
+48,D057236,Travel Medicine,H02.403.850,H02.403,Medicina del Viajero
+49,D057909,Orthognathic Surgery,H02.403.810.481,H02.403,Cirugía Ortognática
+50,D000071939,Stroke Rehabilitation,H02.403.680.600.750.500,H02.403,Rehabilitación de Accidente Cerebrovascular
+51,D000072038,Cardiac Rehabilitation,H02.403.680.600.250,H02.403,Rehabilitación Cardiaca
+52,D000296,Adolescent Psychiatry,H02.403.690.080,H02.403,Psiquiatría del Adolescente
+53,D000337,Aerospace Medicine,H02.403.029,H02.403,Medicina Aeroespacial
+54,D000486,Allergy and Immunology,H02.403.044,H02.403,Alergia e Inmunología
+55,D005554,Forensic Medicine,H02.403.330,H02.403,Medicina Legal
+56,D011570,Psychiatry,H02.403.690,H02.403,Psiquiatría
+57,D011871,Radiology,H02.403.740,H02.403,Radiología
+58,D057285,Precision Medicine,H02.403.200.700,H02.403,Medicina de Precisión
+59,D000776,Anesthesiology,H02.403.066,H02.403,Anestesiología
+60,D001524,Behavioral Medicine,H02.403.090,H02.403,Medicina de la Conducta
+61,D005826,"Genetics, Medical",H02.403.350,H02.403,Genética Médica
+62,D010036,Otolaryngology,H02.403.810.526,H02.403,Otolaringología
+63,D055552,Infectious Disease Medicine,H02.403.429.480,H02.403,Infectología
+64,D049429,Forensic Pathology,H02.403.330.300,H02.403,Patologia Forense
+65,D049429,Forensic Pathology,H02.403.650.249,H02.403,Patologia Forense
+66,D052938,Bariatric Medicine,H02.403.074,H02.403,Medicina Bariátrica
+67,D063165,Neurotology,H02.403.600.500,H02.403,Otoneurología
+68,D063165,Neurotology,H02.403.810.526.500,H02.403,Otoneurología
+69,D064132,Sports Nutritional Sciences,H02.403.830.500,H02.403,Ciencias de la Nutrición y del Deporte
+70,D001689,Biological Psychiatry,H02.403.690.100,H02.403,Psiquiatría Biológica
+71,D002309,Cardiology,H02.403.429.163,H02.403,Cardiología
+72,D007388,Internal Medicine,H02.403.429,H02.403,Medicina Interna
+73,D014330,Tropical Medicine,H02.403.879,H02.403,Medicina Tropical
+74,D014686,Venereology,H02.403.909,H02.403,Venereología
+75,D014943,Global Health,H02.403.371,H02.403,Salud Global
+76,D033441,Andrology,H02.403.763.500,H02.403,Andrología
+77,D054849,Cardiac Electrophysiology,H02.403.429.163.300,H02.403,Electrofisiología Cardíaca
+78,D015272,Pulmonary Medicine,H02.403.429.675,H02.403,Neumología
+79,D015510,Clinical Medicine,H02.403.200,H02.403,Medicina Clínica
+80,D015642,"Radiology, Interventional",H02.403.740.675,H02.403,Radiología Intervencional
+81,D018787,Radiation Oncology,H02.403.429.515.500,H02.403,Oncología por Radiación
+82,D018787,Radiation Oncology,H02.403.740.650,H02.403,Oncología por Radiación
+83,D019112,Teleradiology,H02.403.840.700,H02.403,Telerradiología
+84,D019113,Telepathology,H02.403.650.600,H02.403,Telepatología
+85,D019113,Telepathology,H02.403.840.600,H02.403,Telepatología
+86,D062306,"Geography, Medical",H02.403.352,H02.403,Geografía Médica
+87,D004704,Endocrinology,H02.403.429.323,H02.403,Endocrinología
+88,D005194,Family Practice,H02.403.340.500,H02.403,Medicina Familiar y Comunitaria
+89,D058006,General Practice,H02.403.340,H02.403,Medicina General
+90,D005762,Gastroenterology,H02.403.429.405,H02.403,Gastroenterología
+91,D005852,Geriatric Psychiatry,H02.403.690.260,H02.403,Psiquiatría Geriátrica
+92,D005853,Geriatrics,H02.403.355,H02.403,Geriatría
+93,D006176,Gynecology,H02.403.763.750,H02.403,Ginecología
+94,D006176,Gynecology,H02.403.810.310,H02.403,Ginecología
+95,D006405,Hematology,H02.403.429.445,H02.403,Hematología
+96,D013903,Thoracic Surgery,H02.403.810.803,H02.403,Cirugía Torácica
+97,D018456,Reproductive Medicine,H02.403.763,H02.403,Medicina Reproductiva
+98,D019371,"Topography, Medical",H02.403.352.500,H02.403,Topografía Médica
+99,D062346,Molecular Medicine,H02.403.530,H02.403,Medicina Molecular
+100,D064826,Transfusion Medicine,H02.403.429.445.500,H02.403,Medicina Transfusional
+101,D007120,Immunochemistry,H02.403.044.500,H02.403,Inmunoquímica
+102,D009787,Occupational Medicine,H02.403.720.750.510,H02.403,Medicina del Trabajo
+103,D055048,Integrative Medicine,H02.403.400,H02.403,Medicina Integral
+104,D009398,Nephrology,H02.403.429.580,H02.403,Nefrología
+105,D009493,Neurosurgery,H02.403.810.425,H02.403,Neurocirugia
+106,D009774,Obstetrics,H02.403.810.450,H02.403,Obstetricia
+107,D009885,Ophthalmology,H02.403.810.468,H02.403,Oftalmología
+108,D009985,Orthopedics,H02.403.810.494,H02.403,Ortopedia
+109,D010021,Osteopathic Medicine,H02.403.640,H02.403,Medicina Osteopática
+110,D013366,Submarine Medicine,H02.403.560.508,H02.403,Medicina Submarina
+111,D058027,Neuropsychiatry,H02.403.690.754,H02.403,Neuropsiquiatría
+112,D065126,Palliative Medicine,H02.403.645,H02.403,Medicina Paliativa
+113,D010338,"Pathology, Clinical",H02.403.650.500,H02.403,Patología Clínica
+114,D010340,"Pathology, Surgical",H02.403.650.510,H02.403,Patología Quirúrgica
+115,D010500,Perinatology,H02.403.670.500,H02.403,Perinatología
+116,D010810,Physical and Rehabilitation Medicine,H02.403.680,H02.403,Medicina Física y Rehabilitación
+117,D064796,Veterinary Sports Medicine,H02.403.830.750,H02.403,Medicina Veterinaria Deportiva
+118,D011316,Preventive Psychiatry,H02.403.690.150.580,H02.403,Psiquiatría Preventiva
+119,D011316,Preventive Psychiatry,H02.403.720.750.550,H02.403,Psiquiatría Preventiva
+120,D012219,Rheumatology,H02.403.429.730,H02.403,Reumatología
+121,D012936,Social Medicine,H02.403.800,H02.403,Medicina Social
+122,D017720,Molecular Epidemiology,H02.403.720.500.300,H02.403,Epidemiología Molecular
+123,D017891,Pharmacoepidemiology,H02.403.720.500.650,H02.403,Farmacoepidemiología
+124,D064416,Hospital Medicine,H02.403.377,H02.403,Medicina Hospitalar
+125,D044968,Regenerative Medicine,H02.403.750,H02.403,Medicina Regenerativa
+126,D000073316,Addiction Medicine,H02.403.007,H02.403,Medicina de las Adicciones
+127,D000073320,Psycho-Oncology,H02.403.429.515.250,H02.403,Psicooncología
+128,D000078782,Vaccinology,H02.403.894,H02.403,Vacunología

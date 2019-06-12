@@ -1,0 +1,263 @@
+Dermatology -> SPA[LA] AND (Dermatology[TA] OR Dermatology[TW] OR Dermatology[AD] OR Dermatología[TA] OR Dermatología[TW] OR Dermatología[AD] OR Skin Diseases[MH]) 
+
+Epidemiology -> SPA[LA] AND (Epidemiology[TA] OR Epidemiology[TW] OR Epidemiology[AD] OR Epidemiología[TA] OR Epidemiología[TW] OR Epidemiología[AD]) 
+
+Preventive Medicine -> SPA[LA] AND (Preventive Medicine[TA] OR Preventive Medicine[TW] OR Preventive Medicine[AD] OR Medicina Preventiva[TA] OR Medicina Preventiva[TW] OR Medicina Preventiva[AD] OR Public Health[MH] OR Preventive Health Services[MH] OR Health Promotion[MH]) 
+
+Evidence-Based Medicine -> SPA[LA] AND (Evidence-Based Medicine[TA] OR Evidence-Based Medicine[TW] OR Evidence-Based Medicine[AD] OR Medicina Basada en la Evidencia[TA] OR Medicina Basada en la Evidencia[TW] OR Medicina Basada en la Evidencia[AD] OR Evidence-Based Dentistry[MH] OR Evidence-Based Nursing[MH]) 
+
+Neurological Rehabilitation -> SPA[LA] AND (Neurological Rehabilitation[TA] OR Neurological Rehabilitation[TW] OR Neurological Rehabilitation[AD] OR Rehabilitación Neurológica[TA] OR Rehabilitación Neurológica[TW] OR Rehabilitación Neurológica[AD]) 
+
+Psychiatric Rehabilitation -> SPA[LA] AND (Psychiatric Rehabilitation[TA] OR Psychiatric Rehabilitation[TW] OR Psychiatric Rehabilitation[AD] OR Rehabilitación Psiquiátrica[TA] OR Rehabilitación Psiquiátrica[TW] OR Rehabilitación Psiquiátrica[AD]) 
+
+Theranostic Nanomedicine -> SPA[LA] AND (Theranostic Nanomedicine[TA] OR Theranostic Nanomedicine[TW] OR Theranostic Nanomedicine[AD] OR Nanomedicina Teranóstica[TA] OR Nanomedicina Teranóstica[TW] OR Nanomedicina Teranóstica[AD]) 
+
+Neuropathology -> SPA[LA] AND (Neuropathology[TA] OR Neuropathology[TW] OR Neuropathology[AD] OR Neuropatología[TA] OR Neuropatología[TW] OR Neuropatología[AD]) 
+
+Neuropathology -> SPA[LA] AND (Neuropathology[TA] OR Neuropathology[TW] OR Neuropathology[AD] OR Neuropatología[TA] OR Neuropatología[TW] OR Neuropatología[AD]) 
+
+Telerehabilitation -> SPA[LA] AND (Telerehabilitation[TA] OR Telerehabilitation[TW] OR Telerehabilitation[AD] OR Telerrehabilitación[TA] OR Telerrehabilitación[TW] OR Telerrehabilitación[AD]) 
+
+Telerehabilitation -> SPA[LA] AND (Telerehabilitation[TA] OR Telerehabilitation[TW] OR Telerehabilitation[AD] OR Telerrehabilitación[TA] OR Telerrehabilitación[TW] OR Telerrehabilitación[AD]) 
+
+Pediatric Emergency Medicine -> SPA[LA] AND (Pediatric Emergency Medicine[TA] OR Pediatric Emergency Medicine[TW] OR Pediatric Emergency Medicine[AD] OR Medicina de Urgencia Pediátrica[TA] OR Medicina de Urgencia Pediátrica[TW] OR Medicina de Urgencia Pediátrica[AD]) 
+
+Pediatric Emergency Medicine -> SPA[LA] AND (Pediatric Emergency Medicine[TA] OR Pediatric Emergency Medicine[TW] OR Pediatric Emergency Medicine[AD] OR Medicina de Urgencia Pediátrica[TA] OR Medicina de Urgencia Pediátrica[TW] OR Medicina de Urgencia Pediátrica[AD]) 
+
+Surgical Oncology -> SPA[LA] AND (Surgical Oncology[TA] OR Surgical Oncology[TW] OR Surgical Oncology[AD] OR Oncología Quirúrgica[TA] OR Oncología Quirúrgica[TW] OR Oncología Quirúrgica[AD]) 
+
+Surgical Oncology -> SPA[LA] AND (Surgical Oncology[TA] OR Surgical Oncology[TW] OR Surgical Oncology[AD] OR Oncología Quirúrgica[TA] OR Oncología Quirúrgica[TW] OR Oncología Quirúrgica[AD]) 
+
+Adolescent Medicine -> SPA[LA] AND (Adolescent Medicine[TA] OR Adolescent Medicine[TW] OR Adolescent Medicine[AD] OR Medicina del Adolescente[TA] OR Medicina del Adolescente[TW] OR Medicina del Adolescente[AD] OR Adolescent Health[MH] OR Adolescent Health Services[MH]) 
+
+Emergency Medicine -> SPA[LA] AND (Emergency Medicine[TA] OR Emergency Medicine[TW] OR Emergency Medicine[AD] OR Medicina de Emergencia[TA] OR Medicina de Emergencia[TW] OR Medicina de Emergencia[AD]) 
+
+Medical Oncology -> SPA[LA] AND (Medical Oncology[TA] OR Medical Oncology[TW] OR Medical Oncology[AD] OR Oncología Médica[TA] OR Oncología Médica[TW] OR Oncología Médica[AD] OR Neoplasms[MH]) 
+
+Neurology -> SPA[LA] AND (Neurology[TA] OR Neurology[TW] OR Neurology[AD] OR Neurología[TA] OR Neurología[TW] OR Neurología[AD] OR Nervous System Diseases[MH]) 
+
+Nuclear Medicine -> SPA[LA] AND (Nuclear Medicine[TA] OR Nuclear Medicine[TW] OR Nuclear Medicine[AD] OR Medicina Nuclear[TA] OR Medicina Nuclear[TW] OR Medicina Nuclear[AD] OR Radioisotopes[MH]) 
+
+Pathology -> SPA[LA] AND (Pathology[TA] OR Pathology[TW] OR Pathology[AD] OR Patología[TA] OR Patología[TW] OR Patología[AD]) 
+
+Pediatrics -> SPA[LA] AND (Pediatrics[TA] OR Pediatrics[TW] OR Pediatrics[AD] OR Pediatría[TA] OR Pediatría[TW] OR Pediatría[AD]) 
+
+Public Health -> SPA[LA] AND (Public Health[TA] OR Public Health[TW] OR Public Health[AD] OR Salud Pública[TA] OR Salud Pública[TW] OR Salud Pública[AD] OR Preventive Medicine[MH] OR Zoonoses[MH] OR Social Medicine[MH]) 
+
+Rehabilitation -> SPA[LA] AND (Rehabilitation[TA] OR Rehabilitation[TW] OR Rehabilitation[AD] OR Rehabilitación[TA] OR Rehabilitación[TW] OR Rehabilitación[AD] OR Early Intervention (Education)[MH] OR Disability Evaluation[MH] OR Halfway Houses[MH] OR Recovery of Function[MH] OR Sports for Persons with Disabilities[MH]) 
+
+Specialties, Surgical -> SPA[LA] AND (Specialties, Surgical[TA] OR Specialties, Surgical[TW] OR Specialties, Surgical[AD] OR Especialidades Quirúrgicas[TA] OR Especialidades Quirúrgicas[TW] OR Especialidades Quirúrgicas[AD]) 
+
+Sports Medicine -> SPA[LA] AND (Sports Medicine[TA] OR Sports Medicine[TW] OR Sports Medicine[AD] OR Medicina Deportiva[TA] OR Medicina Deportiva[TW] OR Medicina Deportiva[AD] OR Protective Devices[MH] OR Athletic Injuries[MH]) 
+
+Telemedicine -> SPA[LA] AND (Telemedicine[TA] OR Telemedicine[TW] OR Telemedicine[AD] OR Telemedicina[TA] OR Telemedicina[TW] OR Telemedicina[AD] OR Telemetry[MH]) 
+
+Environmental Medicine -> SPA[LA] AND (Environmental Medicine[TA] OR Environmental Medicine[TW] OR Environmental Medicine[AD] OR Medicina Ambiental[TA] OR Medicina Ambiental[TW] OR Medicina Ambiental[AD]) 
+
+Child Psychiatry -> SPA[LA] AND (Child Psychiatry[TA] OR Child Psychiatry[TW] OR Child Psychiatry[AD] OR Psiquiatría Infantil[TA] OR Psiquiatría Infantil[TW] OR Psiquiatría Infantil[AD]) 
+
+Colorectal Surgery -> SPA[LA] AND (Colorectal Surgery[TA] OR Colorectal Surgery[TW] OR Colorectal Surgery[AD] OR Cirugía Colorrectal[TA] OR Cirugía Colorrectal[TW] OR Cirugía Colorrectal[AD]) 
+
+Community Medicine -> SPA[LA] AND (Community Medicine[TA] OR Community Medicine[TW] OR Community Medicine[AD] OR Medicina Comunitaria[TA] OR Medicina Comunitaria[TW] OR Medicina Comunitaria[AD]) 
+
+Community Psychiatry -> SPA[LA] AND (Community Psychiatry[TA] OR Community Psychiatry[TW] OR Community Psychiatry[AD] OR Psiquiatría Comunitaria[TA] OR Psiquiatría Comunitaria[TW] OR Psiquiatría Comunitaria[AD]) 
+
+Forensic Psychiatry -> SPA[LA] AND (Forensic Psychiatry[TA] OR Forensic Psychiatry[TW] OR Forensic Psychiatry[AD] OR Psiquiatría Forense[TA] OR Psiquiatría Forense[TW] OR Psiquiatría Forense[AD]) 
+
+Correction of Hearing Impairment -> SPA[LA] AND (Correction of Hearing Impairment[TA] OR Correction of Hearing Impairment[TW] OR Correction of Hearing Impairment[AD] OR Corrección de Deficiencia Auditiva[TA] OR Corrección de Deficiencia Auditiva[TW] OR Corrección de Deficiencia Auditiva[AD]) 
+
+Military Medicine -> SPA[LA] AND (Military Medicine[TA] OR Military Medicine[TW] OR Military Medicine[AD] OR Medicina Militar[TA] OR Medicina Militar[TW] OR Medicina Militar[AD]) 
+
+Military Psychiatry -> SPA[LA] AND (Military Psychiatry[TA] OR Military Psychiatry[TW] OR Military Psychiatry[AD] OR Psiquiatría Militar[TA] OR Psiquiatría Militar[TW] OR Psiquiatría Militar[AD]) 
+
+Naval Medicine -> SPA[LA] AND (Naval Medicine[TA] OR Naval Medicine[TW] OR Naval Medicine[AD] OR Medicina Naval[TA] OR Medicina Naval[TW] OR Medicina Naval[AD] OR Diving[MH] OR Ships[MH]) 
+
+Neonatology -> SPA[LA] AND (Neonatology[TA] OR Neonatology[TW] OR Neonatology[AD] OR Neonatología[TA] OR Neonatología[TW] OR Neonatología[AD] OR Infant, Newborn[MH]) 
+
+General Surgery -> SPA[LA] AND (General Surgery[TA] OR General Surgery[TW] OR General Surgery[AD] OR Cirugía General[TA] OR Cirugía General[TW] OR Cirugía General[AD] OR Barber Surgeons[MH] OR Surgical Procedures, Operative[MH]) 
+
+Surgery, Plastic -> SPA[LA] AND (Surgery, Plastic[TA] OR Surgery, Plastic[TW] OR Surgery, Plastic[AD] OR Cirugía Plástica[TA] OR Cirugía Plástica[TW] OR Cirugía Plástica[AD] OR Dermatologic Surgical Procedures[MH] OR Reconstructive Surgical Procedures[MH]) 
+
+Traumatology -> SPA[LA] AND (Traumatology[TA] OR Traumatology[TW] OR Traumatology[AD] OR Traumatología[TA] OR Traumatología[TW] OR Traumatología[AD] OR Wounds and Injuries[MH] OR Advanced Trauma Life Support Care[MH]) 
+
+Urology -> SPA[LA] AND (Urology[TA] OR Urology[TW] OR Urology[AD] OR Urología[TA] OR Urología[TW] OR Urología[AD] OR Urologic Surgical Procedures[MH] OR Urologic Diseases[MH] OR Andrology[MH]) 
+
+Forensic Genetics -> SPA[LA] AND (Forensic Genetics[TA] OR Forensic Genetics[TW] OR Forensic Genetics[AD] OR Genética Forense[TA] OR Genética Forense[TW] OR Genética Forense[AD]) 
+
+Disaster Medicine -> SPA[LA] AND (Disaster Medicine[TA] OR Disaster Medicine[TW] OR Disaster Medicine[AD] OR Medicina de Desastres[TA] OR Medicina de Desastres[TW] OR Medicina de Desastres[AD]) 
+
+Evidence-Based Emergency Medicine -> SPA[LA] AND (Evidence-Based Emergency Medicine[TA] OR Evidence-Based Emergency Medicine[TW] OR Evidence-Based Emergency Medicine[AD] OR Medicina de Emergencia Basada en la Evidencia[TA] OR Medicina de Emergencia Basada en la Evidencia[TW] OR Medicina de Emergencia Basada en la Evidencia[AD]) 
+
+Wilderness Medicine -> SPA[LA] AND (Wilderness Medicine[TA] OR Wilderness Medicine[TW] OR Wilderness Medicine[AD] OR Medicina Silvestre[TA] OR Medicina Silvestre[TW] OR Medicina Silvestre[AD]) 
+
+Sleep Medicine Specialty -> SPA[LA] AND (Sleep Medicine Specialty[TA] OR Sleep Medicine Specialty[TW] OR Sleep Medicine Specialty[AD] OR Medicina del Sueño[TA] OR Medicina del Sueño[TW] OR Medicina del Sueño[AD]) 
+
+Pathology, Molecular -> SPA[LA] AND (Pathology, Molecular[TA] OR Pathology, Molecular[TW] OR Pathology, Molecular[AD] OR Patología Molecular[TA] OR Patología Molecular[TW] OR Patología Molecular[AD]) 
+
+Travel Medicine -> SPA[LA] AND (Travel Medicine[TA] OR Travel Medicine[TW] OR Travel Medicine[AD] OR Medicina del Viajero[TA] OR Medicina del Viajero[TW] OR Medicina del Viajero[AD]) 
+
+Orthognathic Surgery -> SPA[LA] AND (Orthognathic Surgery[TA] OR Orthognathic Surgery[TW] OR Orthognathic Surgery[AD] OR Cirugía Ortognática[TA] OR Cirugía Ortognática[TW] OR Cirugía Ortognática[AD]) 
+
+Stroke Rehabilitation -> SPA[LA] AND (Stroke Rehabilitation[TA] OR Stroke Rehabilitation[TW] OR Stroke Rehabilitation[AD] OR Rehabilitación de Accidente Cerebrovascular[TA] OR Rehabilitación de Accidente Cerebrovascular[TW] OR Rehabilitación de Accidente Cerebrovascular[AD]) 
+
+Cardiac Rehabilitation -> SPA[LA] AND (Cardiac Rehabilitation[TA] OR Cardiac Rehabilitation[TW] OR Cardiac Rehabilitation[AD] OR Rehabilitación Cardiaca[TA] OR Rehabilitación Cardiaca[TW] OR Rehabilitación Cardiaca[AD] OR Recovery of Function[MH]) 
+
+Adolescent Psychiatry -> SPA[LA] AND (Adolescent Psychiatry[TA] OR Adolescent Psychiatry[TW] OR Adolescent Psychiatry[AD] OR Psiquiatría del Adolescente[TA] OR Psiquiatría del Adolescente[TW] OR Psiquiatría del Adolescente[AD]) 
+
+Aerospace Medicine -> SPA[LA] AND (Aerospace Medicine[TA] OR Aerospace Medicine[TW] OR Aerospace Medicine[AD] OR Medicina Aeroespacial[TA] OR Medicina Aeroespacial[TW] OR Medicina Aeroespacial[AD] OR Accidents, Aviation[MH] OR Altitude[MH] OR Decompression Sickness[MH] OR Space Flight[MH]) 
+
+Allergy and Immunology -> SPA[LA] AND (Allergy and Immunology[TA] OR Allergy and Immunology[TW] OR Allergy and Immunology[AD] OR Alergia e Inmunología[TA] OR Alergia e Inmunología[TW] OR Alergia e Inmunología[AD]) 
+
+Forensic Medicine -> SPA[LA] AND (Forensic Medicine[TA] OR Forensic Medicine[TW] OR Forensic Medicine[AD] OR Medicina Legal[TA] OR Medicina Legal[TW] OR Medicina Legal[AD] OR Law Enforcement[MH] OR DNA Contamination[MH]) 
+
+Psychiatry -> SPA[LA] AND (Psychiatry[TA] OR Psychiatry[TW] OR Psychiatry[AD] OR Psiquiatría[TA] OR Psiquiatría[TW] OR Psiquiatría[AD]) 
+
+
+***************************************************************
+*******************desde aqui en turing************************
+***************************************************************
+
+Radiology -> SPA[LA] AND (Radiology[TA] OR Radiology[TW] OR Radiology[AD] OR Radiología[TA] OR Radiología[TW] OR Radiología[AD]) 
+
+Precision Medicine -> SPA[LA] AND (Precision Medicine[TA] OR Precision Medicine[TW] OR Precision Medicine[AD] OR Medicina de Precisión[TA] OR Medicina de Precisión[TW] OR Medicina de Precisión[AD] OR Patient-Specific Modeling[MH] OR Pharmacogenomic Variants[MH] OR Pharmacogenetics[MH]) 
+
+Anesthesiology -> SPA[LA] AND (Anesthesiology[TA] OR Anesthesiology[TW] OR Anesthesiology[AD] OR Anestesiología[TA] OR Anestesiología[TW] OR Anestesiología[AD]) 
+
+Behavioral Medicine -> SPA[LA] AND (Behavioral Medicine[TA] OR Behavioral Medicine[TW] OR Behavioral Medicine[AD] OR Medicina de la Conducta[TA] OR Medicina de la Conducta[TW] OR Medicina de la Conducta[AD]) 
+
+Genetics, Medical -> SPA[LA] AND (Genetics, Medical[TA] OR Genetics, Medical[TW] OR Genetics, Medical[AD] OR Genética Médica[TA] OR Genética Médica[TW] OR Genética Médica[AD] OR Eugenics[MH] OR Diseases in Twins[MH] OR Chromosome Aberrations[MH] OR Genetic Diseases, Inborn[MH] OR Molecular Medicine[MH]) 
+
+Otolaryngology -> SPA[LA] AND (Otolaryngology[TA] OR Otolaryngology[TW] OR Otolaryngology[AD] OR Otolaringología[TA] OR Otolaringología[TW] OR Otolaringología[AD] OR Audiology[MH] OR Otorhinolaryngologic Diseases[MH] OR Otologic Surgical Procedures[MH] OR Nasal Surgical Procedures[MH] OR Otorhinolaryngologic Surgical Procedures[MH]) 
+
+Infectious Disease Medicine -> SPA[LA] AND (Infectious Disease Medicine[TA] OR Infectious Disease Medicine[TW] OR Infectious Disease Medicine[AD] OR Infectología[TA] OR Infectología[TW] OR Infectología[AD] OR Bacteriology[MH] OR Microbiology[MH] OR Communicable Disease Control[MH] OR Mycology[MH] OR Parasitology[MH] OR Virology[MH]) 
+
+Forensic Pathology -> SPA[LA] AND (Forensic Pathology[TA] OR Forensic Pathology[TW] OR Forensic Pathology[AD] OR Patologia Forense[TA] OR Patologia Forense[TW] OR Patologia Forense[AD]) 
+
+Forensic Pathology -> SPA[LA] AND (Forensic Pathology[TA] OR Forensic Pathology[TW] OR Forensic Pathology[AD] OR Patologia Forense[TA] OR Patologia Forense[TW] OR Patologia Forense[AD]) 
+
+Bariatric Medicine -> SPA[LA] AND (Bariatric Medicine[TA] OR Bariatric Medicine[TW] OR Bariatric Medicine[AD] OR Medicina Bariátrica[TA] OR Medicina Bariátrica[TW] OR Medicina Bariátrica[AD] OR Bariatric Surgery[MH] OR Bariatrics[MH]) 
+
+Neurotology -> SPA[LA] AND (Neurotology[TA] OR Neurotology[TW] OR Neurotology[AD] OR Otoneurología[TA] OR Otoneurología[TW] OR Otoneurología[AD]) 
+
+Neurotology -> SPA[LA] AND (Neurotology[TA] OR Neurotology[TW] OR Neurotology[AD] OR Otoneurología[TA] OR Otoneurología[TW] OR Otoneurología[AD]) 
+
+Sports Nutritional Sciences -> SPA[LA] AND (Sports Nutritional Sciences[TA] OR Sports Nutritional Sciences[TW] OR Sports Nutritional Sciences[AD] OR Ciencias de la Nutrición y del Deporte[TA] OR Ciencias de la Nutrición y del Deporte[TW] OR Ciencias de la Nutrición y del Deporte[AD] OR Sports Nutritional Physiological Phenomena[MH]) 
+
+Biological Psychiatry -> SPA[LA] AND (Biological Psychiatry[TA] OR Biological Psychiatry[TW] OR Biological Psychiatry[AD] OR Psiquiatría Biológica[TA] OR Psiquiatría Biológica[TW] OR Psiquiatría Biológica[AD]) 
+
+Cardiology -> SPA[LA] AND (Cardiology[TA] OR Cardiology[TW] OR Cardiology[AD] OR Cardiología[TA] OR Cardiología[TW] OR Cardiología[AD] OR Cardiovascular Diseases[MH] OR Heart Diseases[MH] OR Vascular Diseases[MH]) 
+
+Internal Medicine -> SPA[LA] AND (Internal Medicine[TA] OR Internal Medicine[TW] OR Internal Medicine[AD] OR Medicina Interna[TA] OR Medicina Interna[TW] OR Medicina Interna[AD]) 
+
+Tropical Medicine -> SPA[LA] AND (Tropical Medicine[TA] OR Tropical Medicine[TW] OR Tropical Medicine[AD] OR Medicina Tropical[TA] OR Medicina Tropical[TW] OR Medicina Tropical[AD]) 
+
+Venereology -> SPA[LA] AND (Venereology[TA] OR Venereology[TW] OR Venereology[AD] OR Venereología[TA] OR Venereología[TW] OR Venereología[AD] OR Sexually Transmitted Diseases[MH]) 
+
+Global Health -> SPA[LA] AND (Global Health[TA] OR Global Health[TW] OR Global Health[AD] OR Salud Global[TA] OR Salud Global[TW] OR Salud Global[AD] OR World Health Organization[MH]) 
+
+Andrology -> SPA[LA] AND (Andrology[TA] OR Andrology[TW] OR Andrology[AD] OR Andrología[TA] OR Andrología[TW] OR Andrología[AD] OR Urology[MH]) 
+
+Cardiac Electrophysiology -> SPA[LA] AND (Cardiac Electrophysiology[TA] OR Cardiac Electrophysiology[TW] OR Cardiac Electrophysiology[AD] OR Electrofisiología Cardíaca[TA] OR Electrofisiología Cardíaca[TW] OR Electrofisiología Cardíaca[AD] OR Electrophysiologic Techniques, Cardiac[MH]) 
+
+Pulmonary Medicine -> SPA[LA] AND (Pulmonary Medicine[TA] OR Pulmonary Medicine[TW] OR Pulmonary Medicine[AD] OR Neumología[TA] OR Neumología[TW] OR Neumología[AD]) 
+
+Clinical Medicine -> SPA[LA] AND (Clinical Medicine[TA] OR Clinical Medicine[TW] OR Clinical Medicine[AD] OR Medicina Clínica[TA] OR Medicina Clínica[TW] OR Medicina Clínica[AD] OR Evidence-Based Medicine[MH]) 
+
+Radiology, Interventional -> SPA[LA] AND (Radiology, Interventional[TA] OR Radiology, Interventional[TW] OR Radiology, Interventional[AD] OR Radiología Intervencional[TA] OR Radiología Intervencional[TW] OR Radiología Intervencional[AD]) 
+
+Radiation Oncology -> SPA[LA] AND (Radiation Oncology[TA] OR Radiation Oncology[TW] OR Radiation Oncology[AD] OR Oncología por Radiación[TA] OR Oncología por Radiación[TW] OR Oncología por Radiación[AD]) 
+
+Radiation Oncology -> SPA[LA] AND (Radiation Oncology[TA] OR Radiation Oncology[TW] OR Radiation Oncology[AD] OR Oncología por Radiación[TA] OR Oncología por Radiación[TW] OR Oncología por Radiación[AD]) 
+
+Teleradiology -> SPA[LA] AND (Teleradiology[TA] OR Teleradiology[TW] OR Teleradiology[AD] OR Telerradiología[TA] OR Telerradiología[TW] OR Telerradiología[AD]) 
+
+Telepathology -> SPA[LA] AND (Telepathology[TA] OR Telepathology[TW] OR Telepathology[AD] OR Telepatología[TA] OR Telepatología[TW] OR Telepatología[AD]) 
+
+Telepathology -> SPA[LA] AND (Telepathology[TA] OR Telepathology[TW] OR Telepathology[AD] OR Telepatología[TA] OR Telepatología[TW] OR Telepatología[AD]) 
+
+Geography, Medical -> SPA[LA] AND (Geography, Medical[TA] OR Geography, Medical[TW] OR Geography, Medical[AD] OR Geografía Médica[TA] OR Geografía Médica[TW] OR Geografía Médica[AD]) 
+
+Endocrinology -> SPA[LA] AND (Endocrinology[TA] OR Endocrinology[TW] OR Endocrinology[AD] OR Endocrinología[TA] OR Endocrinología[TW] OR Endocrinología[AD] OR Endocrine System Diseases[MH]) 
+
+Family Practice -> SPA[LA] AND (Family Practice[TA] OR Family Practice[TW] OR Family Practice[AD] OR Medicina Familiar y Comunitaria[TA] OR Medicina Familiar y Comunitaria[TW] OR Medicina Familiar y Comunitaria[AD] OR Comprehensive Health Care[MH] OR Physicians, Family[MH]) 
+
+General Practice -> SPA[LA] AND (General Practice[TA] OR General Practice[TW] OR General Practice[AD] OR Medicina General[TA] OR Medicina General[TW] OR Medicina General[AD] OR General Practitioners[MH]) 
+
+Gastroenterology -> SPA[LA] AND (Gastroenterology[TA] OR Gastroenterology[TW] OR Gastroenterology[AD] OR Gastroenterología[TA] OR Gastroenterología[TW] OR Gastroenterología[AD] OR Gastrointestinal Diseases[MH]) 
+
+Geriatric Psychiatry -> SPA[LA] AND (Geriatric Psychiatry[TA] OR Geriatric Psychiatry[TW] OR Geriatric Psychiatry[AD] OR Psiquiatría Geriátrica[TA] OR Psiquiatría Geriátrica[TW] OR Psiquiatría Geriátrica[AD]) 
+
+Geriatrics -> SPA[LA] AND (Geriatrics[TA] OR Geriatrics[TW] OR Geriatrics[AD] OR Geriatría[TA] OR Geriatría[TW] OR Geriatría[AD] OR Aged[MH]) 
+
+Gynecology -> SPA[LA] AND (Gynecology[TA] OR Gynecology[TW] OR Gynecology[AD] OR Ginecología[TA] OR Ginecología[TW] OR Ginecología[AD] OR Gynecologic Surgical Procedures[MH] OR Gynecologic Surgical Procedures[MH] OR Reproductive Medicine[MH] OR Reproductive Medicine[MH] OR Genital Diseases, Female[MH] OR Genital Diseases, Female[MH]) 
+
+Gynecology -> SPA[LA] AND (Gynecology[TA] OR Gynecology[TW] OR Gynecology[AD] OR Ginecología[TA] OR Ginecología[TW] OR Ginecología[AD] OR Gynecologic Surgical Procedures[MH] OR Gynecologic Surgical Procedures[MH] OR Reproductive Medicine[MH] OR Reproductive Medicine[MH] OR Genital Diseases, Female[MH] OR Genital Diseases, Female[MH]) 
+
+Hematology -> SPA[LA] AND (Hematology[TA] OR Hematology[TW] OR Hematology[AD] OR Hematología[TA] OR Hematología[TW] OR Hematología[AD] OR Hematologic Diseases[MH]) 
+
+Thoracic Surgery -> SPA[LA] AND (Thoracic Surgery[TA] OR Thoracic Surgery[TW] OR Thoracic Surgery[AD] OR Cirugía Torácica[TA] OR Cirugía Torácica[TW] OR Cirugía Torácica[AD] OR Cardiac Surgical Procedures[MH] OR Cardiovascular Surgical Procedures[MH] OR Thoracic Surgical Procedures[MH]) 
+
+Reproductive Medicine -> SPA[LA] AND (Reproductive Medicine[TA] OR Reproductive Medicine[TW] OR Reproductive Medicine[AD] OR Medicina Reproductiva[TA] OR Medicina Reproductiva[TW] OR Medicina Reproductiva[AD] OR Reproductive Techniques[MH] OR Reproductive Health[MH]) 
+
+Topography, Medical -> SPA[LA] AND (Topography, Medical[TA] OR Topography, Medical[TW] OR Topography, Medical[AD] OR Topografía Médica[TA] OR Topografía Médica[TW] OR Topografía Médica[AD] OR Geographic Mapping[MH]) 
+
+Molecular Medicine -> SPA[LA] AND (Molecular Medicine[TA] OR Molecular Medicine[TW] OR Molecular Medicine[AD] OR Medicina Molecular[TA] OR Medicina Molecular[TW] OR Medicina Molecular[AD] OR Genetics, Medical[MH]) 
+
+Transfusion Medicine -> SPA[LA] AND (Transfusion Medicine[TA] OR Transfusion Medicine[TW] OR Transfusion Medicine[AD] OR Medicina Transfusional[TA] OR Medicina Transfusional[TW] OR Medicina Transfusional[AD] OR Blood Safety[MH]) 
+
+Immunochemistry -> SPA[LA] AND (Immunochemistry[TA] OR Immunochemistry[TW] OR Immunochemistry[AD] OR Inmunoquímica[TA] OR Inmunoquímica[TW] OR Inmunoquímica[AD] OR Immunoblotting[MH] OR Immunologic Techniques[MH]) 
+
+Occupational Medicine -> SPA[LA] AND (Occupational Medicine[TA] OR Occupational Medicine[TW] OR Occupational Medicine[AD] OR Medicina del Trabajo[TA] OR Medicina del Trabajo[TW] OR Medicina del Trabajo[AD] OR Occupational Diseases[MH] OR Protective Devices[MH] OR Occupational Health Services[MH]) 
+
+Integrative Medicine -> SPA[LA] AND (Integrative Medicine[TA] OR Integrative Medicine[TW] OR Integrative Medicine[AD] OR Medicina Integral[TA] OR Medicina Integral[TW] OR Medicina Integral[AD] OR Holistic Health[MH]) 
+
+Nephrology -> SPA[LA] AND (Nephrology[TA] OR Nephrology[TW] OR Nephrology[AD] OR Nefrología[TA] OR Nefrología[TW] OR Nefrología[AD] OR Kidney Diseases[MH]) 
+
+Neurosurgery -> SPA[LA] AND (Neurosurgery[TA] OR Neurosurgery[TW] OR Neurosurgery[AD] OR Neurocirugia[TA] OR Neurocirugia[TW] OR Neurocirugia[AD] OR Neurosurgical Procedures[MH]) 
+
+Obstetrics -> SPA[LA] AND (Obstetrics[TA] OR Obstetrics[TW] OR Obstetrics[AD] OR Obstetricia[TA] OR Obstetricia[TW] OR Obstetricia[AD] OR Obstetric Surgical Procedures[MH] OR Pregnancy Complications[MH]) 
+
+Ophthalmology -> SPA[LA] AND (Ophthalmology[TA] OR Ophthalmology[TW] OR Ophthalmology[AD] OR Oftalmología[TA] OR Oftalmología[TW] OR Oftalmología[AD] OR Ophthalmologic Surgical Procedures[MH] OR Vision, Ocular[MH] OR Orthoptics[MH] OR Eye Diseases[MH]) 
+
+Orthopedics -> SPA[LA] AND (Orthopedics[TA] OR Orthopedics[TW] OR Orthopedics[AD] OR Ortopedia[TA] OR Ortopedia[TW] OR Ortopedia[AD] OR Osteology[MH] OR Orthopedic Procedures[MH]) 
+
+Osteopathic Medicine -> SPA[LA] AND (Osteopathic Medicine[TA] OR Osteopathic Medicine[TW] OR Osteopathic Medicine[AD] OR Medicina Osteopática[TA] OR Medicina Osteopática[TW] OR Medicina Osteopática[AD] OR Osteopathic Physicians[MH]) 
+
+Submarine Medicine -> SPA[LA] AND (Submarine Medicine[TA] OR Submarine Medicine[TW] OR Submarine Medicine[AD] OR Medicina Submarina[TA] OR Medicina Submarina[TW] OR Medicina Submarina[AD] OR Ecological Systems, Closed[MH]) 
+
+Neuropsychiatry -> SPA[LA] AND (Neuropsychiatry[TA] OR Neuropsychiatry[TW] OR Neuropsychiatry[AD] OR Neuropsiquiatría[TA] OR Neuropsiquiatría[TW] OR Neuropsiquiatría[AD] OR Neuropsychology[MH]) 
+
+Palliative Medicine -> SPA[LA] AND (Palliative Medicine[TA] OR Palliative Medicine[TW] OR Palliative Medicine[AD] OR Medicina Paliativa[TA] OR Medicina Paliativa[TW] OR Medicina Paliativa[AD] OR Palliative Care[MH] OR Hospice and Palliative Care Nursing[MH]) 
+
+Pathology, Clinical -> SPA[LA] AND (Pathology, Clinical[TA] OR Pathology, Clinical[TW] OR Pathology, Clinical[AD] OR Patología Clínica[TA] OR Patología Clínica[TW] OR Patología Clínica[AD]) 
+
+Pathology, Surgical -> SPA[LA] AND (Pathology, Surgical[TA] OR Pathology, Surgical[TW] OR Pathology, Surgical[AD] OR Patología Quirúrgica[TA] OR Patología Quirúrgica[TW] OR Patología Quirúrgica[AD]) 
+
+Perinatology -> SPA[LA] AND (Perinatology[TA] OR Perinatology[TW] OR Perinatology[AD] OR Perinatología[TA] OR Perinatología[TW] OR Perinatología[AD] OR Infant, Newborn, Diseases[MH] OR Maternal-Child Nursing[MH] OR Perinatal Care[MH] OR Fetal Diseases[MH] OR Pregnancy Complications[MH]) 
+
+Physical and Rehabilitation Medicine -> SPA[LA] AND (Physical and Rehabilitation Medicine[TA] OR Physical and Rehabilitation Medicine[TW] OR Physical and Rehabilitation Medicine[AD] OR Medicina Física y Rehabilitación[TA] OR Medicina Física y Rehabilitación[TW] OR Medicina Física y Rehabilitación[AD] OR Biomechanical Phenomena[MH]) 
+
+Veterinary Sports Medicine -> SPA[LA] AND (Veterinary Sports Medicine[TA] OR Veterinary Sports Medicine[TW] OR Veterinary Sports Medicine[AD] OR Medicina Veterinaria Deportiva[TA] OR Medicina Veterinaria Deportiva[TW] OR Medicina Veterinaria Deportiva[AD] OR Physical Conditioning, Animal[MH]) 
+
+Preventive Psychiatry -> SPA[LA] AND (Preventive Psychiatry[TA] OR Preventive Psychiatry[TW] OR Preventive Psychiatry[AD] OR Psiquiatría Preventiva[TA] OR Psiquiatría Preventiva[TW] OR Psiquiatría Preventiva[AD] OR Preventive Health Services[MH] OR Preventive Health Services[MH]) 
+
+Preventive Psychiatry -> SPA[LA] AND (Preventive Psychiatry[TA] OR Preventive Psychiatry[TW] OR Preventive Psychiatry[AD] OR Psiquiatría Preventiva[TA] OR Psiquiatría Preventiva[TW] OR Psiquiatría Preventiva[AD] OR Preventive Health Services[MH] OR Preventive Health Services[MH]) 
+
+Rheumatology -> SPA[LA] AND (Rheumatology[TA] OR Rheumatology[TW] OR Rheumatology[AD] OR Reumatología[TA] OR Reumatología[TW] OR Reumatología[AD] OR Rheumatic Diseases[MH] OR Collagen Diseases[MH]) 
+
+Social Medicine -> SPA[LA] AND (Social Medicine[TA] OR Social Medicine[TW] OR Social Medicine[AD] OR Medicina Social[TA] OR Medicina Social[TW] OR Medicina Social[AD]) 
+
+Molecular Epidemiology -> SPA[LA] AND (Molecular Epidemiology[TA] OR Molecular Epidemiology[TW] OR Molecular Epidemiology[AD] OR Epidemiología Molecular[TA] OR Epidemiología Molecular[TW] OR Epidemiología Molecular[AD]) 
+
+Pharmacoepidemiology -> SPA[LA] AND (Pharmacoepidemiology[TA] OR Pharmacoepidemiology[TW] OR Pharmacoepidemiology[AD] OR Farmacoepidemiología[TA] OR Farmacoepidemiología[TW] OR Farmacoepidemiología[AD]) 
+
+Hospital Medicine -> SPA[LA] AND (Hospital Medicine[TA] OR Hospital Medicine[TW] OR Hospital Medicine[AD] OR Medicina Hospitalar[TA] OR Medicina Hospitalar[TW] OR Medicina Hospitalar[AD] OR Hospitalists[MH]) 
+
+Regenerative Medicine -> SPA[LA] AND (Regenerative Medicine[TA] OR Regenerative Medicine[TW] OR Regenerative Medicine[AD] OR Medicina Regenerativa[TA] OR Medicina Regenerativa[TW] OR Medicina Regenerativa[AD] OR Biocompatible Materials[MH] OR Tissue Engineering[MH] OR Tissue Therapy, Historical[MH] OR Regenerative Endodontics[MH]) 
+
+Addiction Medicine -> SPA[LA] AND (Addiction Medicine[TA] OR Addiction Medicine[TW] OR Addiction Medicine[AD] OR Medicina de las Adicciones[TA] OR Medicina de las Adicciones[TW] OR Medicina de las Adicciones[AD]) 
+
+Psycho-Oncology -> SPA[LA] AND (Psycho-Oncology[TA] OR Psycho-Oncology[TW] OR Psycho-Oncology[AD] OR Psicooncología[TA] OR Psicooncología[TW] OR Psicooncología[AD]) 
+
+Vaccinology -> SPA[LA] AND (Vaccinology[TA] OR Vaccinology[TW] OR Vaccinology[AD] OR Vacunología[TA] OR Vacunología[TW] OR Vacunología[AD]) 
+

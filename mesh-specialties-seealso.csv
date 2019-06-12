@@ -1,0 +1,130 @@
+,descriptor,label,treeNum,medicineTreeNum,seeDescriptor,seeAlso
+0,D064826,Transfusion Medicine,H02.403.429.445.500,H02.403,D058731,Blood Safety
+1,D000295,Adolescent Medicine,H02.403.014,H02.403,D000067697,Adolescent Health
+2,D000295,Adolescent Medicine,H02.403.014,H02.403,D016497,Adolescent Health Services
+3,D009462,Neurology,H02.403.600,H02.403,D009422,Nervous System Diseases
+4,D011634,Public Health,H02.403.720,H02.403,D011315,Preventive Medicine
+5,D011634,Public Health,H02.403.720,H02.403,D015047,Zoonoses
+6,D011634,Public Health,H02.403.720,H02.403,D012936,Social Medicine
+7,D012046,Rehabilitation,H02.403.680.600,H02.403,D018479,Early Intervention (Education)
+8,D012046,Rehabilitation,H02.403.680.600,H02.403,D004185,Disability Evaluation
+9,D012046,Rehabilitation,H02.403.680.600,H02.403,D006208,Halfway Houses
+10,D012046,Rehabilitation,H02.403.680.600,H02.403,D020127,Recovery of Function
+11,D012046,Rehabilitation,H02.403.680.600,H02.403,D064846,Sports for Persons with Disabilities
+12,D013178,Sports Medicine,H02.403.830,H02.403,D011482,Protective Devices
+13,D013178,Sports Medicine,H02.403.830,H02.403,D001265,Athletic Injuries
+14,D017216,Telemedicine,H02.403.840,H02.403,D013686,Telemetry
+15,D005826,"Genetics, Medical",H02.403.350,H02.403,D005053,Eugenics
+16,D005826,"Genetics, Medical",H02.403.350,H02.403,D004200,Diseases in Twins
+17,D005826,"Genetics, Medical",H02.403.350,H02.403,D002869,Chromosome Aberrations
+18,D005826,"Genetics, Medical",H02.403.350,H02.403,D030342,"Genetic Diseases, Inborn"
+19,D005826,"Genetics, Medical",H02.403.350,H02.403,D062346,Molecular Medicine
+20,D010036,Otolaryngology,H02.403.810.526,H02.403,D001298,Audiology
+21,D010036,Otolaryngology,H02.403.810.526,H02.403,D010038,Otorhinolaryngologic Diseases
+22,D010036,Otolaryngology,H02.403.810.526,H02.403,D013506,Otologic Surgical Procedures
+23,D010036,Otolaryngology,H02.403.810.526,H02.403,D059747,Nasal Surgical Procedures
+24,D010036,Otolaryngology,H02.403.810.526,H02.403,D013517,Otorhinolaryngologic Surgical Procedures
+25,D055552,Infectious Disease Medicine,H02.403.429.480,H02.403,D001432,Bacteriology
+26,D055552,Infectious Disease Medicine,H02.403.429.480,H02.403,D008829,Microbiology
+27,D055552,Infectious Disease Medicine,H02.403.429.480,H02.403,D003140,Communicable Disease Control
+28,D055552,Infectious Disease Medicine,H02.403.429.480,H02.403,D009172,Mycology
+29,D055552,Infectious Disease Medicine,H02.403.429.480,H02.403,D010274,Parasitology
+30,D055552,Infectious Disease Medicine,H02.403.429.480,H02.403,D014773,Virology
+31,D002309,Cardiology,H02.403.429.163,H02.403,D002318,Cardiovascular Diseases
+32,D002309,Cardiology,H02.403.429.163,H02.403,D006331,Heart Diseases
+33,D002309,Cardiology,H02.403.429.163,H02.403,D014652,Vascular Diseases
+34,D003880,Dermatology,H02.403.225,H02.403,D012871,Skin Diseases
+35,D011315,Preventive Medicine,H02.403.720.750,H02.403,D011634,Public Health
+36,D011315,Preventive Medicine,H02.403.720.750,H02.403,D011314,Preventive Health Services
+37,D011315,Preventive Medicine,H02.403.720.750,H02.403,D006293,Health Promotion
+38,D019317,Evidence-Based Medicine,H02.403.200.400,H02.403,D055094,Evidence-Based Dentistry
+39,D019317,Evidence-Based Medicine,H02.403.200.400,H02.403,D055318,Evidence-Based Nursing
+40,D004704,Endocrinology,H02.403.429.323,H02.403,D004700,Endocrine System Diseases
+41,D005194,Family Practice,H02.403.340.500,H02.403,D003191,Comprehensive Health Care
+42,D005194,Family Practice,H02.403.340.500,H02.403,D010821,"Physicians, Family"
+43,D058006,General Practice,H02.403.340,H02.403,D058005,General Practitioners
+44,D005762,Gastroenterology,H02.403.429.405,H02.403,D005767,Gastrointestinal Diseases
+45,D005853,Geriatrics,H02.403.355,H02.403,D000368,Aged
+46,D006176,Gynecology,H02.403.763.750,H02.403,D013509,Gynecologic Surgical Procedures
+47,D006176,Gynecology,H02.403.810.310,H02.403,D013509,Gynecologic Surgical Procedures
+48,D006176,Gynecology,H02.403.763.750,H02.403,D018456,Reproductive Medicine
+49,D006176,Gynecology,H02.403.810.310,H02.403,D018456,Reproductive Medicine
+50,D006176,Gynecology,H02.403.763.750,H02.403,D005831,"Genital Diseases, Female"
+51,D006176,Gynecology,H02.403.810.310,H02.403,D005831,"Genital Diseases, Female"
+52,D013903,Thoracic Surgery,H02.403.810.803,H02.403,D006348,Cardiac Surgical Procedures
+53,D013903,Thoracic Surgery,H02.403.810.803,H02.403,D013504,Cardiovascular Surgical Procedures
+54,D013903,Thoracic Surgery,H02.403.810.803,H02.403,D019616,Thoracic Surgical Procedures
+55,D018456,Reproductive Medicine,H02.403.763,H02.403,D012099,Reproductive Techniques
+56,D018456,Reproductive Medicine,H02.403.763,H02.403,D060728,Reproductive Health
+57,D019371,"Topography, Medical",H02.403.352.500,H02.403,D062305,Geographic Mapping
+58,D062346,Molecular Medicine,H02.403.530,H02.403,D005826,"Genetics, Medical"
+59,D006405,Hematology,H02.403.429.445,H02.403,D006402,Hematologic Diseases
+60,D007120,Immunochemistry,H02.403.044.500,H02.403,D015151,Immunoblotting
+61,D007120,Immunochemistry,H02.403.044.500,H02.403,D007158,Immunologic Techniques
+62,D009787,Occupational Medicine,H02.403.720.750.510,H02.403,D009784,Occupational Diseases
+63,D009787,Occupational Medicine,H02.403.720.750.510,H02.403,D011482,Protective Devices
+64,D009787,Occupational Medicine,H02.403.720.750.510,H02.403,D009786,Occupational Health Services
+65,D055048,Integrative Medicine,H02.403.400,H02.403,D006694,Holistic Health
+66,D009326,Naval Medicine,H02.403.560,H02.403,D004242,Diving
+67,D009326,Naval Medicine,H02.403.560,H02.403,D012767,Ships
+68,D009359,Neonatology,H02.403.670.400,H02.403,D007231,"Infant, Newborn"
+69,D009398,Nephrology,H02.403.429.580,H02.403,D007674,Kidney Diseases
+70,D009493,Neurosurgery,H02.403.810.425,H02.403,D019635,Neurosurgical Procedures
+71,D009774,Obstetrics,H02.403.810.450,H02.403,D013513,Obstetric Surgical Procedures
+72,D009774,Obstetrics,H02.403.810.450,H02.403,D011248,Pregnancy Complications
+73,D009885,Ophthalmology,H02.403.810.468,H02.403,D013508,Ophthalmologic Surgical Procedures
+74,D009885,Ophthalmology,H02.403.810.468,H02.403,D014785,"Vision, Ocular"
+75,D009885,Ophthalmology,H02.403.810.468,H02.403,D009988,Orthoptics
+76,D009885,Ophthalmology,H02.403.810.468,H02.403,D005128,Eye Diseases
+77,D009985,Orthopedics,H02.403.810.494,H02.403,D059166,Osteology
+78,D009985,Orthopedics,H02.403.810.494,H02.403,D019637,Orthopedic Procedures
+79,D010021,Osteopathic Medicine,H02.403.640,H02.403,D055360,Osteopathic Physicians
+80,D013366,Submarine Medicine,H02.403.560.508,H02.403,D018504,"Ecological Systems, Closed"
+81,D058027,Neuropsychiatry,H02.403.690.754,H02.403,D009484,Neuropsychology
+82,D065126,Palliative Medicine,H02.403.645,H02.403,D010166,Palliative Care
+83,D065126,Palliative Medicine,H02.403.645,H02.403,D064946,Hospice and Palliative Care Nursing
+84,D010500,Perinatology,H02.403.670.500,H02.403,D007232,"Infant, Newborn, Diseases"
+85,D010500,Perinatology,H02.403.670.500,H02.403,D016389,Maternal-Child Nursing
+86,D010500,Perinatology,H02.403.670.500,H02.403,D018743,Perinatal Care
+87,D010500,Perinatology,H02.403.670.500,H02.403,D005315,Fetal Diseases
+88,D010500,Perinatology,H02.403.670.500,H02.403,D011248,Pregnancy Complications
+89,D010810,Physical and Rehabilitation Medicine,H02.403.680,H02.403,D001696,Biomechanical Phenomena
+90,D064796,Veterinary Sports Medicine,H02.403.830.750,H02.403,D010805,"Physical Conditioning, Animal"
+91,D064416,Hospital Medicine,H02.403.377,H02.403,D020445,Hospitalists
+92,D044968,Regenerative Medicine,H02.403.750,H02.403,D001672,Biocompatible Materials
+93,D044968,Regenerative Medicine,H02.403.750,H02.403,D023822,Tissue Engineering
+94,D044968,Regenerative Medicine,H02.403.750,H02.403,D014023,"Tissue Therapy, Historical"
+95,D044968,Regenerative Medicine,H02.403.750,H02.403,D000078483,Regenerative Endodontics
+96,D052938,Bariatric Medicine,H02.403.074,H02.403,D050110,Bariatric Surgery
+97,D052938,Bariatric Medicine,H02.403.074,H02.403,D049088,Bariatrics
+98,D000072038,Cardiac Rehabilitation,H02.403.680.600.250,H02.403,D020127,Recovery of Function
+99,D000337,Aerospace Medicine,H02.403.029,H02.403,D000060,"Accidents, Aviation"
+100,D000337,Aerospace Medicine,H02.403.029,H02.403,D000531,Altitude
+101,D000337,Aerospace Medicine,H02.403.029,H02.403,D003665,Decompression Sickness
+102,D000337,Aerospace Medicine,H02.403.029,H02.403,D013026,Space Flight
+103,D005554,Forensic Medicine,H02.403.330,H02.403,D035846,Law Enforcement
+104,D005554,Forensic Medicine,H02.403.330,H02.403,D059018,DNA Contamination
+105,D008495,Medical Oncology,H02.403.429.515,H02.403,D009369,Neoplasms
+106,D009683,Nuclear Medicine,H02.403.740.500,H02.403,D011868,Radioisotopes
+107,D057285,Precision Medicine,H02.403.200.700,H02.403,D066230,Patient-Specific Modeling
+108,D057285,Precision Medicine,H02.403.200.700,H02.403,D000071184,Pharmacogenomic Variants
+109,D057285,Precision Medicine,H02.403.200.700,H02.403,D010597,Pharmacogenetics
+110,D011316,Preventive Psychiatry,H02.403.690.150.580,H02.403,D011314,Preventive Health Services
+111,D011316,Preventive Psychiatry,H02.403.720.750.550,H02.403,D011314,Preventive Health Services
+112,D012219,Rheumatology,H02.403.429.730,H02.403,D012216,Rheumatic Diseases
+113,D012219,Rheumatology,H02.403.429.730,H02.403,D003095,Collagen Diseases
+114,D013502,General Surgery,H02.403.810.300,H02.403,D019024,Barber Surgeons
+115,D013502,General Surgery,H02.403.810.300,H02.403,D013514,"Surgical Procedures, Operative"
+116,D013518,"Surgery, Plastic",H02.403.810.788,H02.403,D062109,Dermatologic Surgical Procedures
+117,D013518,"Surgery, Plastic",H02.403.810.788,H02.403,D019651,Reconstructive Surgical Procedures
+118,D014572,Urology,H02.403.810.860,H02.403,D013520,Urologic Surgical Procedures
+119,D014572,Urology,H02.403.810.860,H02.403,D014570,Urologic Diseases
+120,D014572,Urology,H02.403.810.860,H02.403,D033441,Andrology
+121,D014194,Traumatology,H02.403.810.850,H02.403,D014947,Wounds and Injuries
+122,D014194,Traumatology,H02.403.810.850,H02.403,D061906,Advanced Trauma Life Support Care
+123,D014686,Venereology,H02.403.909,H02.403,D012749,Sexually Transmitted Diseases
+124,D014943,Global Health,H02.403.371,H02.403,D014944,World Health Organization
+125,D033441,Andrology,H02.403.763.500,H02.403,D014572,Urology
+126,D015510,Clinical Medicine,H02.403.200,H02.403,D019317,Evidence-Based Medicine
+127,D054849,Cardiac Electrophysiology,H02.403.429.163.300,H02.403,D022062,"Electrophysiologic Techniques, Cardiac"
+128,D064132,Sports Nutritional Sciences,H02.403.830.500,H02.403,D064133,Sports Nutritional Physiological Phenomena
