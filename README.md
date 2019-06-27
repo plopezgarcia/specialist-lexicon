@@ -13,3 +13,5 @@
 5. [mesh-specialties-spa.csv]: Dataframe que contiene las especialidades y sus traducciones al español usando UMLS
 
 6. [mesh-specialties.csv]: Dataframe que contiene la información de las especialidades de MeSH
+
+7. [queries.csv] -> (borrar)
